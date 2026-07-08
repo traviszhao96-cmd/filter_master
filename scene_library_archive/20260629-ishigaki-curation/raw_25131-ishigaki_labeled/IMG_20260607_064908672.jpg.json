@@ -1,0 +1,46 @@
+{
+  "labels": [
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.93128765
+    },
+    {
+      "index": 291,
+      "label": "Star",
+      "confidence": 0.7566069
+    },
+    {
+      "index": 295,
+      "label": "Space",
+      "confidence": 0.71517783
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.93128765
+    },
+    {
+      "index": 291,
+      "label": "Star",
+      "confidence": 0.7566069
+    },
+    {
+      "index": 295,
+      "label": "Space",
+      "confidence": 0.71517783
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:41:41.346Z",
+    "sourceImage": "25131-ishigaki/IMG_20260607_064908672.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

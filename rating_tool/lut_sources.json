@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "name": "店主推荐",
+      "path": "lut_library/店主推荐",
+      "defaultStrength": 100
+    },
+    {
+      "name": "filter_lut",
+      "path": "lut_library/filter_lut",
+      "defaultStrength": 100
+    }
+  ]
+}

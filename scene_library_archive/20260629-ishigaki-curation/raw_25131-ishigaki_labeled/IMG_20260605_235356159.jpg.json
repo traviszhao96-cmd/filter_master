@@ -1,0 +1,96 @@
+{
+  "labels": [
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.81873894
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.74901146
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.6251047
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.6153533
+    },
+    {
+      "index": 180,
+      "label": "Trunk",
+      "confidence": 0.61458707
+    },
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.53801644
+    },
+    {
+      "index": 239,
+      "label": "Leisure",
+      "confidence": 0.5048179
+    },
+    {
+      "index": 253,
+      "label": "Metal",
+      "confidence": 0.5026871
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.81873894
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.74901146
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.6251047
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.6153533
+    },
+    {
+      "index": 180,
+      "label": "Trunk",
+      "confidence": 0.61458707
+    },
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.53801644
+    },
+    {
+      "index": 239,
+      "label": "Leisure",
+      "confidence": 0.5048179
+    },
+    {
+      "index": 253,
+      "label": "Metal",
+      "confidence": 0.5026871
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:40:47.908Z",
+    "sourceImage": "25131-ishigaki/IMG_20260605_235356159.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

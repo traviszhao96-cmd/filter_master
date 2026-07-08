@@ -1,0 +1,76 @@
+{
+  "labels": [
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.86605924
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.77926326
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.77478826
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.7626918
+    },
+    {
+      "index": 408,
+      "label": "Prairie",
+      "confidence": 0.71906847
+    },
+    {
+      "index": 399,
+      "label": "Farm",
+      "confidence": 0.5510524
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.86605924
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.77926326
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.77478826
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.7626918
+    },
+    {
+      "index": 408,
+      "label": "Prairie",
+      "confidence": 0.71906847
+    },
+    {
+      "index": 399,
+      "label": "Farm",
+      "confidence": 0.5510524
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:40:58.082Z",
+    "sourceImage": "25131-ishigaki/IMG_20260606_001014095.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

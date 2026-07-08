@@ -1,0 +1,106 @@
+{
+  "labels": [
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.93128765
+    },
+    {
+      "index": 91,
+      "label": "Monochrome",
+      "confidence": 0.8082645
+    },
+    {
+      "index": 339,
+      "label": "Soil",
+      "confidence": 0.7967833
+    },
+    {
+      "index": 355,
+      "label": "Branch",
+      "confidence": 0.7839094
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.75781727
+    },
+    {
+      "index": 353,
+      "label": "Beach",
+      "confidence": 0.73248124
+    },
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.6210137
+    },
+    {
+      "index": 180,
+      "label": "Trunk",
+      "confidence": 0.58333313
+    },
+    {
+      "index": 187,
+      "label": "Fruit",
+      "confidence": 0.50615054
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.93128765
+    },
+    {
+      "index": 91,
+      "label": "Monochrome",
+      "confidence": 0.8082645
+    },
+    {
+      "index": 339,
+      "label": "Soil",
+      "confidence": 0.7967833
+    },
+    {
+      "index": 355,
+      "label": "Branch",
+      "confidence": 0.7839094
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.75781727
+    },
+    {
+      "index": 353,
+      "label": "Beach",
+      "confidence": 0.73248124
+    },
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.6210137
+    },
+    {
+      "index": 180,
+      "label": "Trunk",
+      "confidence": 0.58333313
+    },
+    {
+      "index": 187,
+      "label": "Fruit",
+      "confidence": 0.50615054
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:41:05.240Z",
+    "sourceImage": "25131-ishigaki/IMG_20260606_015120968.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

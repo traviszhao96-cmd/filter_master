@@ -1,0 +1,11 @@
+scene_library/
+exports/
+apk/
+*.zip
+*.apk
+.DS_Store
+node_modules/
+mlkit_labeler_android/app/build/
+mlkit_labeler_android/.gradle/
+mlkit_labeler_android/build/
+*.idsig

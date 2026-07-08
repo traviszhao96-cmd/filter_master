@@ -1,0 +1,15 @@
+{
+  "name": "scene-lut-rating-tool",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node rating_tool/server.mjs",
+    "start:mlkit": "PORT=${PORT:-4174} MLKIT_LABEL_COMMAND=\"node rating_tool/scripts/mlkit-labeler-adb.mjs\" node rating_tool/server.mjs",
+    "start:lark": "PORT=${PORT:-4174} LARK_APP_ID=cli_a947663f3ff89eef LARK_APP_SECRET=0NgxL9xWlz0uGg2u1IeP1beMhI6WpkQu LARK_CALLBACK_URL=http://localhost:4174/auth/lark/callback MLKIT_LABEL_COMMAND=\"node rating_tool/scripts/mlkit-labeler-adb.mjs\" node rating_tool/server.mjs",
+    "dev": "node --watch rating_tool/server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

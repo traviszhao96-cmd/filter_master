@@ -1,0 +1,86 @@
+{
+  "labels": [
+    {
+      "index": 353,
+      "label": "Beach",
+      "confidence": 0.992011
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.92540747
+    },
+    {
+      "index": 333,
+      "label": "Sand",
+      "confidence": 0.9023657
+    },
+    {
+      "index": 167,
+      "label": "Vacation",
+      "confidence": 0.7535036
+    },
+    {
+      "index": 241,
+      "label": "Lake",
+      "confidence": 0.64515704
+    },
+    {
+      "index": 239,
+      "label": "Leisure",
+      "confidence": 0.61206126
+    },
+    {
+      "index": 319,
+      "label": "Event",
+      "confidence": 0.6063912
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 353,
+      "label": "Beach",
+      "confidence": 0.992011
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.92540747
+    },
+    {
+      "index": 333,
+      "label": "Sand",
+      "confidence": 0.9023657
+    },
+    {
+      "index": 167,
+      "label": "Vacation",
+      "confidence": 0.7535036
+    },
+    {
+      "index": 241,
+      "label": "Lake",
+      "confidence": 0.64515704
+    },
+    {
+      "index": 239,
+      "label": "Leisure",
+      "confidence": 0.61206126
+    },
+    {
+      "index": 319,
+      "label": "Event",
+      "confidence": 0.6063912
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:41:51.250Z",
+    "sourceImage": "25131-ishigaki/IMG_20260607_153355064.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

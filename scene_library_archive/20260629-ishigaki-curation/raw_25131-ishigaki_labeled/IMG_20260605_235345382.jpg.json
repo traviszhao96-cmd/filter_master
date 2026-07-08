@@ -1,0 +1,86 @@
+{
+  "labels": [
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.8048781
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.79089653
+    },
+    {
+      "index": 180,
+      "label": "Trunk",
+      "confidence": 0.72735006
+    },
+    {
+      "index": 239,
+      "label": "Leisure",
+      "confidence": 0.6743947
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.6557543
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.5735742
+    },
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.5578026
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.8048781
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.79089653
+    },
+    {
+      "index": 180,
+      "label": "Trunk",
+      "confidence": 0.72735006
+    },
+    {
+      "index": 239,
+      "label": "Leisure",
+      "confidence": 0.6743947
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.6557543
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.5735742
+    },
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.5578026
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:40:45.569Z",
+    "sourceImage": "25131-ishigaki/IMG_20260605_235345382.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

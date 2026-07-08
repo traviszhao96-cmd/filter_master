@@ -1,0 +1,699 @@
+{
+  "schemaVersion": 1,
+  "description": "Product scene refinements for filter recommendation. These labels refine the existing 18 product scenes with visual conditions that can change filter strategy. They are not one-to-one mappings to filters.",
+  "principles": [
+    "Keep the existing 18 APK-aligned product scenes as parent scenes.",
+    "Only add a sub scene when the visual condition is reasonably detectable from ML Kit, Face, EXIF/Lux/CCT/ADRC, metadata tags, or filename signals.",
+    "Do not create labels for pure intent/place semantics such as travel unless the visual condition itself affects filter choice.",
+    "Sub scenes should boost or penalize filter attributes; they should not directly bind to a single LUT."
+  ],
+  "subScenes": [
+    {
+      "subSceneId": "selfie_close_portrait",
+      "displayName": "自拍/近景人像",
+      "sceneGroup": "人像",
+      "parentSceneIds": ["portrait_single"],
+      "priority": 100,
+      "baseWeight": 70,
+      "requiredTagKeywords": ["selfie", "closeup", "close", "front_camera"],
+      "labels": [
+        { "label": "Smile", "index": 46, "minConfidence": 0.5, "weight": 55 },
+        { "label": "Hair", "minConfidence": 0.5, "weight": 45 },
+        { "label": "Glasses", "minConfidence": 0.45, "weight": 35 }
+      ],
+      "tagKeywords": [
+        { "value": "selfie", "weight": 110 },
+        { "value": "closeup", "weight": 100 },
+        { "value": "close", "weight": 70 },
+        { "value": "front_camera", "weight": 90 },
+        { "value": "skin_tone", "weight": 60 }
+      ],
+      "metadataConditions": [
+        { "path": "face_count", "op": ">=", "value": 1, "weight": 80 },
+        { "path": "face.area_ratio", "op": ">=", "value": 0.18, "weight": 100 },
+        { "path": "camera_facing", "op": "=", "value": "front", "weight": 120 }
+      ],
+      "filterSignals": ["skin_safe", "face_brighten", "soft", "natural", "low_strength"],
+      "avoidSignals": ["high_saturation", "hard_contrast", "strong_color_shift"]
+    },
+    {
+      "subSceneId": "portrait_general",
+      "displayName": "普通人像",
+      "sceneGroup": "人像",
+      "parentSceneIds": ["portrait_single"],
+      "priority": 88,
+      "baseWeight": 90,
+      "labels": [
+        { "label": "Smile", "index": 46, "minConfidence": 0.5, "weight": 45 },
+        { "label": "Model", "index": 373, "minConfidence": 0.5, "weight": 55 },
+        { "label": "Jacket", "index": 197, "minConfidence": 0.5, "weight": 35 }
+      ],
+      "tagKeywords": [
+        { "value": "portrait", "weight": 80 },
+        { "value": "skin_tone", "weight": 60 }
+      ],
+      "metadataConditions": [
+        { "path": "face_count", "op": ">=", "value": 1, "weight": 90 },
+        { "path": "face.area_ratio", "op": ">=", "value": 0.08, "weight": 80 }
+      ],
+      "filterSignals": ["skin_safe", "natural", "soft", "face_brighten"],
+      "avoidSignals": ["green_shift", "magenta_shift", "hard_contrast"]
+    },
+    {
+      "subSceneId": "full_body_street_portrait",
+      "displayName": "全身/街拍人像",
+      "sceneGroup": "人像",
+      "parentSceneIds": ["portrait_single"],
+      "priority": 84,
+      "baseWeight": 55,
+      "minScore": 150,
+      "labels": [
+        { "label": "Standing", "index": 66, "minConfidence": 0.45, "weight": 65 },
+        { "label": "Jeans", "minConfidence": 0.45, "weight": 45 },
+        { "label": "Jacket", "index": 197, "minConfidence": 0.45, "weight": 45 },
+        { "label": "Road", "index": 287, "minConfidence": 0.45, "weight": 50 },
+        { "label": "Building", "index": 366, "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "street", "weight": 75 },
+        { "value": "full_body", "weight": 90 },
+        { "value": "fashion", "weight": 70 }
+      ],
+      "filterSignals": ["skin_safe", "urban", "film", "moderate_contrast"],
+      "avoidSignals": ["over_saturation", "skin_tone_risk"]
+    },
+    {
+      "subSceneId": "group_event_portrait",
+      "displayName": "多人/活动人像",
+      "sceneGroup": "人像",
+      "parentSceneIds": ["portrait_single"],
+      "priority": 92,
+      "baseWeight": 60,
+      "minScore": 150,
+      "requiredTagKeywords": ["group", "multi_skin_tone", "event", "crowd"],
+      "labels": [
+        { "label": "Event", "index": 319, "minConfidence": 0.45, "weight": 75 },
+        { "label": "Fun", "minConfidence": 0.45, "weight": 65 },
+        { "label": "Leisure", "minConfidence": 0.45, "weight": 50 },
+        { "label": "Crowd", "minConfidence": 0.45, "weight": 80 }
+      ],
+      "tagKeywords": [
+        { "value": "group", "weight": 100 },
+        { "value": "multi_skin_tone", "weight": 80 },
+        { "value": "event", "weight": 70 }
+      ],
+      "metadataConditions": [
+        { "path": "face_count", "op": ">=", "value": 3, "weight": 120 }
+      ],
+      "filterSignals": ["skin_safe", "low_style", "natural", "face_brighten"],
+      "avoidSignals": ["hard_contrast", "over_saturation", "strong_color_shift"]
+    },
+    {
+      "subSceneId": "indoor_portrait",
+      "displayName": "室内人像",
+      "sceneGroup": "人像",
+      "parentSceneIds": ["portrait_single"],
+      "priority": 90,
+      "baseWeight": 55,
+      "labels": [
+        { "label": "Room", "index": 289, "minConfidence": 0.45, "weight": 80 },
+        { "label": "Chair", "index": 92, "minConfidence": 0.45, "weight": 55 },
+        { "label": "Desk", "minConfidence": 0.45, "weight": 45 },
+        { "label": "Couch", "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "indoor", "weight": 95 },
+        { "value": "room", "weight": 65 },
+        { "value": "mixed_light", "weight": 55 }
+      ],
+      "metadataConditions": [
+        { "path": "lux.scene", "op": "contains", "value": "indoor", "weight": 100 }
+      ],
+      "filterSignals": ["skin_safe", "white_balance_correct", "clean", "soft_light"],
+      "avoidSignals": ["extra_yellow", "hard_contrast", "heavy_vintage"]
+    },
+    {
+      "subSceneId": "indoor_warm_portrait",
+      "displayName": "室内暖光人像",
+      "sceneGroup": "人像",
+      "parentSceneIds": ["portrait_single"],
+      "priority": 96,
+      "baseWeight": 50,
+      "requiredTagKeywords": ["warm_light", "yellow_light", "mixed_light"],
+      "labels": [
+        { "label": "Room", "index": 289, "minConfidence": 0.45, "weight": 55 },
+        { "label": "Lampshade", "minConfidence": 0.45, "weight": 65 }
+      ],
+      "tagKeywords": [
+        { "value": "indoor", "weight": 75 },
+        { "value": "warm_light", "weight": 120 },
+        { "value": "yellow_light", "weight": 100 },
+        { "value": "mixed_light", "weight": 55 }
+      ],
+      "metadataConditions": [
+        { "path": "cct", "op": "<=", "value": 4500, "weight": 120 },
+        { "path": "lux.scene", "op": "contains", "value": "indoor", "weight": 80 }
+      ],
+      "filterSignals": ["skin_safe", "white_balance_correct", "warm_control", "soft_light"],
+      "avoidSignals": ["extra_yellow", "over_saturation", "green_shift"]
+    },
+    {
+      "subSceneId": "night_portrait",
+      "displayName": "夜景人像",
+      "sceneGroup": "人像",
+      "parentSceneIds": ["portrait_single"],
+      "priority": 98,
+      "baseWeight": 55,
+      "requiredTagKeywords": ["night", "neon", "city_light", "low_light"],
+      "labels": [
+        { "label": "Building", "index": 366, "minConfidence": 0.45, "weight": 45 },
+        { "label": "Road", "index": 287, "minConfidence": 0.45, "weight": 45 },
+        { "label": "Vehicle", "index": 316, "minConfidence": 0.45, "weight": 35 },
+        { "label": "Event", "index": 319, "minConfidence": 0.45, "weight": 35 }
+      ],
+      "tagKeywords": [
+        { "value": "night", "weight": 120 },
+        { "value": "neon", "weight": 95 },
+        { "value": "city_light", "weight": 85 },
+        { "value": "low_light", "weight": 75 }
+      ],
+      "metadataConditions": [
+        { "path": "lux.scene", "op": "contains", "value": "night", "weight": 120 },
+        { "path": "lux.scene", "op": "contains", "value": "dark", "weight": 100 },
+        { "path": "adrc", "op": ">=", "value": 2, "weight": 65 }
+      ],
+      "filterSignals": ["skin_safe", "face_brighten", "highlight_protect", "noise_control", "neon_control"],
+      "avoidSignals": ["hard_contrast", "over_saturation", "darken_face"]
+    },
+    {
+      "subSceneId": "sunset_portrait",
+      "displayName": "日落人像",
+      "sceneGroup": "人像",
+      "parentSceneIds": ["portrait_single"],
+      "priority": 97,
+      "baseWeight": 55,
+      "requiredTagKeywords": ["sunset", "golden_hour", "warm_highlight"],
+      "labels": [
+        { "label": "Sunset", "index": 49, "minConfidence": 0.5, "weight": 130 },
+        { "label": "Sky", "index": 54, "minConfidence": 0.5, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "sunset", "weight": 130 },
+        { "value": "golden_hour", "weight": 120 },
+        { "value": "warm_highlight", "weight": 95 },
+        { "value": "warm_light", "weight": 70 }
+      ],
+      "metadataConditions": [
+        { "path": "cct", "op": "<=", "value": 5200, "weight": 70 },
+        { "path": "adrc", "op": ">=", "value": 2, "weight": 55 }
+      ],
+      "filterSignals": ["skin_safe", "warm_atmosphere", "highlight_protect", "soft_contrast"],
+      "avoidSignals": ["extra_orange_skin", "green_shift", "hard_contrast"]
+    },
+    {
+      "subSceneId": "backlit_portrait",
+      "displayName": "逆光人像",
+      "sceneGroup": "人像",
+      "parentSceneIds": ["portrait_single"],
+      "priority": 95,
+      "baseWeight": 45,
+      "requiredTagKeywords": ["backlight", "backlit", "strong_highlight", "highlight_shadow_range"],
+      "labels": [
+        { "label": "Sky", "index": 54, "minConfidence": 0.45, "weight": 45 },
+        { "label": "Sunset", "index": 49, "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "backlight", "weight": 130 },
+        { "value": "backlit", "weight": 130 },
+        { "value": "strong_highlight", "weight": 90 },
+        { "value": "highlight_shadow_range", "weight": 70 }
+      ],
+      "metadataConditions": [
+        { "path": "adrc", "op": ">=", "value": 2, "weight": 100 },
+        { "path": "face.under_exposed", "op": "=", "value": true, "weight": 110 }
+      ],
+      "filterSignals": ["face_brighten", "highlight_protect", "skin_safe", "shadow_lift"],
+      "avoidSignals": ["highlight_clip", "hard_contrast", "darken_face"]
+    },
+    {
+      "subSceneId": "food_general",
+      "displayName": "通用美食",
+      "sceneGroup": "食物",
+      "parentSceneIds": ["food_closeup"],
+      "priority": 88,
+      "baseWeight": 85,
+      "labels": [
+        { "label": "Food", "index": 184, "minConfidence": 0.5, "weight": 100 },
+        { "label": "Cuisine", "index": 117, "minConfidence": 0.5, "weight": 85 },
+        { "label": "Meal", "index": 428, "minConfidence": 0.5, "weight": 75 },
+        { "label": "Tableware", "index": 236, "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "food", "weight": 80 },
+        { "value": "meal", "weight": 65 }
+      ],
+      "filterSignals": ["food_warm", "clear", "moderate_saturation", "texture"],
+      "avoidSignals": ["cool_cast", "low_appetite", "over_yellow"]
+    },
+    {
+      "subSceneId": "warm_indoor_food",
+      "displayName": "暖光餐食",
+      "sceneGroup": "食物",
+      "parentSceneIds": ["food_closeup"],
+      "priority": 94,
+      "baseWeight": 55,
+      "requiredTagKeywords": ["warm_light", "cafe", "restaurant", "indoor"],
+      "labels": [
+        { "label": "Food", "index": 184, "minConfidence": 0.45, "weight": 70 },
+        { "label": "Cup", "minConfidence": 0.45, "weight": 40 },
+        { "label": "Coffee", "minConfidence": 0.45, "weight": 55 },
+        { "label": "Room", "index": 289, "minConfidence": 0.45, "weight": 45 },
+        { "label": "Chair", "index": 92, "minConfidence": 0.45, "weight": 35 }
+      ],
+      "tagKeywords": [
+        { "value": "warm_light", "weight": 110 },
+        { "value": "cafe", "weight": 80 },
+        { "value": "restaurant", "weight": 80 },
+        { "value": "indoor", "weight": 65 }
+      ],
+      "metadataConditions": [
+        { "path": "cct", "op": "<=", "value": 4500, "weight": 100 },
+        { "path": "lux.scene", "op": "contains", "value": "indoor", "weight": 70 }
+      ],
+      "filterSignals": ["food_warm", "warm_control", "texture", "white_balance_correct"],
+      "avoidSignals": ["extra_yellow", "cool_cast", "over_saturation"]
+    },
+    {
+      "subSceneId": "pet_animal",
+      "displayName": "宠物/动物",
+      "sceneGroup": "动物",
+      "parentSceneIds": ["pet"],
+      "priority": 82,
+      "baseWeight": 90,
+      "labels": [
+        { "label": "Dog", "index": 360, "minConfidence": 0.5, "weight": 100 },
+        { "label": "Cat", "index": 118, "minConfidence": 0.5, "weight": 100 },
+        { "label": "Pet", "index": 277, "minConfidence": 0.5, "weight": 105 },
+        { "label": "Bird", "minConfidence": 0.5, "weight": 70 }
+      ],
+      "tagKeywords": [
+        { "value": "pet", "weight": 90 },
+        { "value": "animal", "weight": 80 }
+      ],
+      "filterSignals": ["soft", "natural", "warm_clean", "fur_detail"],
+      "avoidSignals": ["hard_contrast", "over_saturation", "heavy_sharpen"]
+    },
+    {
+      "subSceneId": "sky_clear_landscape",
+      "displayName": "天空/清透风光",
+      "sceneGroup": "风景",
+      "parentSceneIds": ["sky_cloud", "beach_sea", "lake_river", "mountain"],
+      "priority": 74,
+      "baseWeight": 55,
+      "labels": [
+        { "label": "Sky", "index": 54, "minConfidence": 0.55, "weight": 115 },
+        { "label": "Cloud", "minConfidence": 0.45, "weight": 70 },
+        { "label": "Fog", "minConfidence": 0.45, "weight": 50 }
+      ],
+      "tagKeywords": [
+        { "value": "blue_sky", "weight": 105 },
+        { "value": "wide_scene", "weight": 60 },
+        { "value": "cloud", "weight": 55 }
+      ],
+      "filterSignals": ["clear", "blue_control", "natural_hdr", "moderate_saturation"],
+      "avoidSignals": ["cyan_overcast", "highlight_clip"]
+    },
+    {
+      "subSceneId": "beach_water",
+      "displayName": "海边/水面",
+      "sceneGroup": "风景",
+      "parentSceneIds": ["beach_sea", "lake_river", "waterfall"],
+      "priority": 80,
+      "baseWeight": 65,
+      "labels": [
+        { "label": "Beach", "index": 353, "minConfidence": 0.5, "weight": 110 },
+        { "label": "Sand", "index": 333, "minConfidence": 0.45, "weight": 70 },
+        { "label": "Lake", "index": 241, "minConfidence": 0.45, "weight": 85 },
+        { "label": "River", "index": 284, "minConfidence": 0.45, "weight": 80 },
+        { "label": "Boat", "index": 45, "minConfidence": 0.45, "weight": 55 }
+      ],
+      "tagKeywords": [
+        { "value": "beach", "weight": 95 },
+        { "value": "sea", "weight": 85 },
+        { "value": "water", "weight": 75 },
+        { "value": "coast", "weight": 75 }
+      ],
+      "filterSignals": ["clear", "blue_control", "highlight_protect", "fresh"],
+      "avoidSignals": ["green_shift", "muddy_blue", "highlight_clip"]
+    },
+    {
+      "subSceneId": "forest_greenery",
+      "displayName": "山野森林",
+      "sceneGroup": "风景",
+      "parentSceneIds": ["forest_greenery", "mountain"],
+      "priority": 78,
+      "baseWeight": 70,
+      "minScore": 150,
+      "blockedPrimarySceneIds": ["architecture", "food_closeup", "flower_macro"],
+      "labels": [
+        { "label": "Forest", "index": 193, "minConfidence": 0.5, "weight": 100 },
+        { "label": "Plant", "index": 266, "minConfidence": 0.5, "weight": 80 },
+        { "label": "Garden", "index": 357, "minConfidence": 0.5, "weight": 70 },
+        { "label": "Mountain", "index": 337, "minConfidence": 0.45, "weight": 65 },
+        { "label": "Prairie", "index": 408, "minConfidence": 0.45, "weight": 50 }
+      ],
+      "tagKeywords": [
+        { "value": "greenery", "weight": 80 },
+        { "value": "green_land", "weight": 70 },
+        { "value": "forest", "weight": 85 },
+        { "value": "jungle", "weight": 70 }
+      ],
+      "filterSignals": ["green_control", "natural", "fresh", "moderate_saturation"],
+      "avoidSignals": ["neon_green", "muddy_green", "magenta_shift"]
+    },
+    {
+      "subSceneId": "sunset_landscape",
+      "displayName": "日落/氛围风景",
+      "sceneGroup": "风景",
+      "parentSceneIds": ["sunset_sunrise", "sky_cloud", "beach_sea", "lake_river", "architecture"],
+      "priority": 90,
+      "baseWeight": 60,
+      "requiredTagKeywords": ["sunset", "golden_hour", "warm_highlight"],
+      "labels": [
+        { "label": "Sunset", "index": 49, "minConfidence": 0.5, "weight": 140 },
+        { "label": "Sky", "index": 54, "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "sunset", "weight": 120 },
+        { "value": "golden_hour", "weight": 105 },
+        { "value": "warm_highlight", "weight": 85 }
+      ],
+      "metadataConditions": [
+        { "path": "cct", "op": "<=", "value": 5200, "weight": 55 },
+        { "path": "adrc", "op": ">=", "value": 2, "weight": 50 }
+      ],
+      "filterSignals": ["warm_atmosphere", "highlight_protect", "cinematic", "soft_contrast"],
+      "avoidSignals": ["extra_orange", "highlight_clip", "green_shift"]
+    },
+    {
+      "subSceneId": "night_landscape",
+      "displayName": "夜间风景",
+      "sceneGroup": "风景",
+      "parentSceneIds": ["night_neon", "sky_cloud", "lake_river", "forest_greenery"],
+      "priority": 86,
+      "baseWeight": 60,
+      "requiredTagKeywords": ["night", "low_light", "extreme_dark", "very_dark"],
+      "labels": [
+        { "label": "Sky", "index": 54, "minConfidence": 0.45, "weight": 40 },
+        { "label": "Road", "index": 287, "minConfidence": 0.45, "weight": 45 },
+        { "label": "Building", "index": 366, "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "night", "weight": 120 },
+        { "value": "low_light", "weight": 75 },
+        { "value": "reflection", "weight": 55 }
+      ],
+      "metadataConditions": [
+        { "path": "lux.scene", "op": "contains", "value": "night", "weight": 120 },
+        { "path": "lux.scene", "op": "contains", "value": "dark", "weight": 100 }
+      ],
+      "filterSignals": ["highlight_protect", "noise_control", "shadow_detail", "low_strength"],
+      "avoidSignals": ["hard_crush", "over_saturation", "washed_out_night"]
+    },
+    {
+      "subSceneId": "flower_plant",
+      "displayName": "花草植物",
+      "sceneGroup": "花草",
+      "parentSceneIds": ["flower_macro", "forest_greenery"],
+      "priority": 76,
+      "baseWeight": 70,
+      "blockedPrimarySceneIds": ["architecture", "food_closeup"],
+      "labels": [
+        { "label": "Flower", "index": 362, "minConfidence": 0.5, "weight": 120 },
+        { "label": "Petal", "index": 28, "minConfidence": 0.45, "weight": 80 },
+        { "label": "Plant", "index": 266, "minConfidence": 0.45, "weight": 60 },
+        { "label": "Garden", "index": 357, "minConfidence": 0.45, "weight": 60 }
+      ],
+      "tagKeywords": [
+        { "value": "flower", "weight": 90 },
+        { "value": "plant", "weight": 65 }
+      ],
+      "filterSignals": ["fresh", "natural", "green_control", "moderate_saturation"],
+      "avoidSignals": ["over_saturation", "neon_green", "magenta_shift"]
+    },
+    {
+      "subSceneId": "city_architecture",
+      "displayName": "城市街景/建筑",
+      "sceneGroup": "城市建筑",
+      "parentSceneIds": ["architecture", "street_vehicle"],
+      "priority": 76,
+      "baseWeight": 70,
+      "blockedPrimarySceneIds": ["food_closeup", "indoor_home"],
+      "labels": [
+        { "label": "Building", "index": 366, "minConfidence": 0.5, "weight": 100 },
+        { "label": "Road", "index": 287, "minConfidence": 0.45, "weight": 65 },
+        { "label": "Wall", "minConfidence": 0.45, "weight": 55 },
+        { "label": "Brick", "minConfidence": 0.45, "weight": 55 },
+        { "label": "Roof", "index": 290, "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "architecture", "weight": 75 },
+        { "value": "street", "weight": 65 },
+        { "value": "building", "weight": 60 }
+      ],
+      "filterSignals": ["neutral_color", "line_detail", "urban", "moderate_contrast"],
+      "avoidSignals": ["heavy_color_cast", "over_saturation"]
+    },
+    {
+      "subSceneId": "skyline_highrise",
+      "displayName": "高楼天际线",
+      "sceneGroup": "城市建筑",
+      "parentSceneIds": ["architecture", "sky_cloud"],
+      "priority": 74,
+      "baseWeight": 20,
+      "minScore": 100,
+      "labels": [
+        { "label": "Skyscraper", "index": 308, "minConfidence": 0.5, "weight": 110 },
+        { "label": "Skyline", "minConfidence": 0.45, "weight": 100 },
+        { "label": "Tower", "minConfidence": 0.45, "weight": 70 },
+        { "label": "Building", "index": 366, "minConfidence": 0.45, "weight": 55 },
+        { "label": "Sky", "index": 54, "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "skyline", "weight": 90 },
+        { "value": "skyscraper", "weight": 90 }
+      ],
+      "filterSignals": ["line_detail", "clear", "cool_modern", "highlight_protect"],
+      "avoidSignals": ["tilt_color_cast", "muddy_shadow"]
+    },
+    {
+      "subSceneId": "city_night",
+      "displayName": "城市夜景",
+      "sceneGroup": "城市建筑",
+      "parentSceneIds": ["night_neon", "architecture", "street_vehicle"],
+      "priority": 88,
+      "baseWeight": 55,
+      "requiredTagKeywords": ["night", "city_light", "neon"],
+      "labels": [
+        { "label": "Building", "index": 366, "minConfidence": 0.45, "weight": 70 },
+        { "label": "Road", "index": 287, "minConfidence": 0.45, "weight": 55 },
+        { "label": "Vehicle", "index": 316, "minConfidence": 0.45, "weight": 45 },
+        { "label": "Skyscraper", "index": 308, "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "night", "weight": 120 },
+        { "value": "city_light", "weight": 95 },
+        { "value": "neon", "weight": 95 },
+        { "value": "street", "weight": 55 }
+      ],
+      "metadataConditions": [
+        { "path": "lux.scene", "op": "contains", "value": "night", "weight": 120 },
+        { "path": "adrc", "op": ">=", "value": 2, "weight": 65 }
+      ],
+      "filterSignals": ["neon_control", "cinematic", "highlight_protect", "noise_control"],
+      "avoidSignals": ["highlight_clip", "washed_out_night", "hard_crush"]
+    },
+    {
+      "subSceneId": "home_office_indoor",
+      "displayName": "居家/办公室内",
+      "sceneGroup": "室内",
+      "parentSceneIds": ["indoor_home"],
+      "priority": 68,
+      "baseWeight": 75,
+      "labels": [
+        { "label": "Room", "index": 289, "minConfidence": 0.5, "weight": 95 },
+        { "label": "Chair", "index": 92, "minConfidence": 0.45, "weight": 60 },
+        { "label": "Couch", "minConfidence": 0.45, "weight": 55 },
+        { "label": "Desk", "minConfidence": 0.45, "weight": 55 },
+        { "label": "Television", "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "indoor", "weight": 70 },
+        { "value": "home", "weight": 60 },
+        { "value": "office", "weight": 60 }
+      ],
+      "filterSignals": ["clean", "soft_light", "white_balance_correct", "low_noise"],
+      "avoidSignals": ["extra_yellow", "heavy_vintage", "hard_contrast"]
+    },
+    {
+      "subSceneId": "kitchen_dining_indoor",
+      "displayName": "餐厨室内",
+      "sceneGroup": "室内",
+      "parentSceneIds": ["indoor_home", "food_closeup"],
+      "priority": 70,
+      "baseWeight": 30,
+      "minScore": 120,
+      "requiredTagKeywords": ["kitchen", "dining", "restaurant", "indoor", "cafe"],
+      "labels": [
+        { "label": "Kitchen", "minConfidence": 0.45, "weight": 90 },
+        { "label": "Countertop", "minConfidence": 0.45, "weight": 75 },
+        { "label": "Cabinetry", "minConfidence": 0.45, "weight": 70 },
+        { "label": "Tableware", "index": 236, "minConfidence": 0.45, "weight": 55 },
+        { "label": "Food", "index": 184, "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "kitchen", "weight": 85 },
+        { "value": "dining", "weight": 70 },
+        { "value": "restaurant", "weight": 65 }
+      ],
+      "filterSignals": ["clean", "white_balance_correct", "food_warm", "lifestyle"],
+      "avoidSignals": ["extra_yellow", "cool_cast", "hard_contrast"]
+    },
+    {
+      "subSceneId": "public_indoor_space",
+      "displayName": "公共/展厅空间",
+      "sceneGroup": "室内",
+      "parentSceneIds": ["indoor_home", "architecture"],
+      "priority": 72,
+      "baseWeight": 30,
+      "minScore": 120,
+      "requiredTagKeywords": ["museum", "gallery", "exhibition", "public_indoor"],
+      "labels": [
+        { "label": "Museum", "minConfidence": 0.45, "weight": 120 },
+        { "label": "Room", "index": 289, "minConfidence": 0.45, "weight": 55 },
+        { "label": "Wall", "minConfidence": 0.45, "weight": 50 },
+        { "label": "Metal", "minConfidence": 0.45, "weight": 45 },
+        { "label": "Stairs", "minConfidence": 0.45, "weight": 55 },
+        { "label": "Building", "index": 366, "minConfidence": 0.45, "weight": 50 }
+      ],
+      "tagKeywords": [
+        { "value": "museum", "weight": 120 },
+        { "value": "gallery", "weight": 90 },
+        { "value": "exhibition", "weight": 90 },
+        { "value": "public_indoor", "weight": 95 }
+      ],
+      "filterSignals": ["neutral_color", "line_detail", "clean", "low_color_cast"],
+      "avoidSignals": ["warm_overload", "heavy_vintage", "over_saturation"]
+    },
+    {
+      "subSceneId": "document_screen_poster",
+      "displayName": "文档/屏幕/海报",
+      "sceneGroup": "文档平面",
+      "parentSceneIds": ["document"],
+      "priority": 70,
+      "baseWeight": 80,
+      "labels": [
+        { "label": "Paper", "index": 273, "minConfidence": 0.45, "weight": 100 },
+        { "label": "Poster", "minConfidence": 0.45, "weight": 85 },
+        { "label": "Mobile phone", "minConfidence": 0.45, "weight": 75 },
+        { "label": "Monochrome", "minConfidence": 0.45, "weight": 60 },
+        { "label": "Pattern", "minConfidence": 0.45, "weight": 45 }
+      ],
+      "tagKeywords": [
+        { "value": "document", "weight": 80 },
+        { "value": "paper", "weight": 70 },
+        { "value": "screen", "weight": 75 },
+        { "value": "poster", "weight": 75 }
+      ],
+      "filterSignals": ["document_clean", "text_legibility", "white_restore", "shadow_remove"],
+      "avoidSignals": ["color_shift", "soft_blur", "low_contrast"]
+    },
+    {
+      "subSceneId": "vehicle_sport",
+      "displayName": "车辆/运动",
+      "sceneGroup": "交通运动",
+      "parentSceneIds": ["auto_show", "street_vehicle"],
+      "priority": 70,
+      "baseWeight": 30,
+      "minScore": 110,
+      "requiredTagKeywords": ["vehicle", "car", "motion", "sports", "cyclist", "bicycle", "bike"],
+      "labels": [
+        { "label": "Vehicle", "index": 316, "minConfidence": 0.5, "weight": 95 },
+        { "label": "Car", "index": 423, "minConfidence": 0.5, "weight": 100 },
+        { "label": "Wheel", "index": 322, "minConfidence": 0.45, "weight": 65 },
+        { "label": "Bumper", "index": 172, "minConfidence": 0.45, "weight": 50 },
+        { "label": "Road", "index": 287, "minConfidence": 0.45, "weight": 45 },
+        { "label": "Bicycle", "minConfidence": 0.45, "weight": 60 }
+      ],
+      "tagKeywords": [
+        { "value": "vehicle", "weight": 75 },
+        { "value": "car", "weight": 75 },
+        { "value": "motion", "weight": 70 },
+        { "value": "sports", "weight": 55 },
+        { "value": "cyclist", "weight": 60 },
+        { "value": "bicycle", "weight": 60 },
+        { "value": "bike", "weight": 60 }
+      ],
+      "filterSignals": ["metal_detail", "moderate_contrast", "dynamic", "urban"],
+      "avoidSignals": ["muddy_shadow", "over_saturation"]
+    },
+    {
+      "subSceneId": "snow_low_color",
+      "displayName": "雪景/低彩风景",
+      "sceneGroup": "风景",
+      "parentSceneIds": ["snow"],
+      "priority": 66,
+      "baseWeight": 75,
+      "labels": [
+        { "label": "Snow", "index": 348, "minConfidence": 0.45, "weight": 120 },
+        { "label": "Ice", "minConfidence": 0.45, "weight": 80 },
+        { "label": "White", "minConfidence": 0.45, "weight": 50 }
+      ],
+      "tagKeywords": [
+        { "value": "snow", "weight": 90 },
+        { "value": "ice", "weight": 70 },
+        { "value": "low_color", "weight": 55 }
+      ],
+      "filterSignals": ["white_balance_correct", "highlight_protect", "clean", "low_color_cast"],
+      "avoidSignals": ["highlight_clip", "cyan_overcast", "muddy_shadow"]
+    },
+    {
+      "subSceneId": "uncertain_mixed",
+      "displayName": "低置信度/混合场景",
+      "sceneGroup": "通用",
+      "priority": 30,
+      "baseWeight": 0,
+      "tagKeywords": [
+        { "value": "mixed_scene", "weight": 80 },
+        { "value": "uncertain", "weight": 90 },
+        { "value": "low_confidence", "weight": 90 },
+        { "value": "no_subject", "weight": 70 }
+      ],
+      "metadataConditions": [
+        { "path": "top_confidence", "op": "<", "value": 0.45, "weight": 120 },
+        { "path": "scene_score_gap", "op": "<", "value": 0.12, "weight": 90 }
+      ],
+      "filterSignals": ["natural", "low_strength", "conservative", "clean"],
+      "avoidSignals": ["strong_style", "heavy_color_shift", "hard_contrast"]
+    },
+    {
+      "subSceneId": "dark_uncertain",
+      "displayName": "极暗不确定",
+      "sceneGroup": "通用",
+      "parentSceneIds": ["night_neon"],
+      "priority": 34,
+      "baseWeight": 30,
+      "tagKeywords": [
+        { "value": "extreme_dark", "weight": 120 },
+        { "value": "very_dark", "weight": 110 },
+        { "value": "low_light", "weight": 80 }
+      ],
+      "metadataConditions": [
+        { "path": "lux.scene", "op": "contains", "value": "extreme_dark", "weight": 140 },
+        { "path": "lux.value", "op": "<=", "value": 5, "weight": 120 }
+      ],
+      "filterSignals": ["noise_control", "shadow_lift", "low_strength", "conservative"],
+      "avoidSignals": ["hard_crush", "over_saturation", "strong_style"]
+    }
+  ]
+}

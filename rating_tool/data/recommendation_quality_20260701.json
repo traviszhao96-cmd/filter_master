@@ -1,0 +1,1125 @@
+{
+  "generatedAt": "2026-07-01T07:02:41.306Z",
+  "thresholds": {
+    "low": "n>=2 && avg<=1.5",
+    "weak": "n>=2 && 1.5<avg<=2.2"
+  },
+  "summary": {
+    "ratedImages": 32,
+    "activeFilters": 31,
+    "invalidRefCount": 0
+  },
+  "invalidRefs": [],
+  "lowRecommendations": [],
+  "weakRecommendations": [],
+  "universalFilters": [
+    {
+      "filterId": "ai_portrait_soft",
+      "filterName": "AI Portrait Soft",
+      "source": "产品调试 LUT",
+      "n": 84,
+      "avg": 3.27,
+      "zeroRate": 0.02,
+      "positiveRate": 0.83,
+      "imageCoverage": 32,
+      "sceneCoverage": 11,
+      "sceneBreakdown": [
+        {
+          "sceneId": "portrait_single",
+          "n": 21,
+          "avg": 3.86,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "pet",
+          "n": 13,
+          "avg": 3.62,
+          "zeroRate": 0,
+          "positiveRate": 0.92
+        },
+        {
+          "sceneId": "architecture",
+          "n": 13,
+          "avg": 3.38,
+          "zeroRate": 0,
+          "positiveRate": 0.85
+        },
+        {
+          "sceneId": "indoor_home",
+          "n": 3,
+          "avg": 3.33,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 8,
+          "avg": 3.25,
+          "zeroRate": 0,
+          "positiveRate": 0.88
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 4,
+          "avg": 3.25,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 4,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 0.75
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 4,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 0.75
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 5,
+          "avg": 2.4,
+          "zeroRate": 0.2,
+          "positiveRate": 0.6
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 4,
+          "avg": 2,
+          "zeroRate": 0.25,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 2,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        }
+      ]
+    },
+    {
+      "filterId": "ai_forest_fresh",
+      "filterName": "AI Forest Fresh",
+      "source": "产品调试 LUT",
+      "n": 67,
+      "avg": 3.04,
+      "zeroRate": 0,
+      "positiveRate": 0.69,
+      "imageCoverage": 32,
+      "sceneCoverage": 12,
+      "sceneBreakdown": [
+        {
+          "sceneId": "mountain",
+          "n": 5,
+          "avg": 4.4,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "architecture",
+          "n": 11,
+          "avg": 3.36,
+          "zeroRate": 0,
+          "positiveRate": 0.91
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 3,
+          "avg": 3.33,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 6,
+          "avg": 3.33,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 7,
+          "avg": 3.29,
+          "zeroRate": 0,
+          "positiveRate": 0.86
+        },
+        {
+          "sceneId": "night_neon",
+          "n": 3,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 10,
+          "avg": 2.9,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 8,
+          "avg": 2.88,
+          "zeroRate": 0,
+          "positiveRate": 0.75
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 3,
+          "avg": 2.67,
+          "zeroRate": 0,
+          "positiveRate": 0.33
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 4,
+          "avg": 2.25,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "pet",
+          "n": 3,
+          "avg": 1.33,
+          "zeroRate": 0,
+          "positiveRate": 0
+        }
+      ]
+    },
+    {
+      "filterId": "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+      "filterName": "709婚礼自然暖肤",
+      "source": "店主推荐",
+      "n": 57,
+      "avg": 2.98,
+      "zeroRate": 0.02,
+      "positiveRate": 0.7,
+      "imageCoverage": 32,
+      "sceneCoverage": 12,
+      "sceneBreakdown": [
+        {
+          "sceneId": "auto_show",
+          "n": 3,
+          "avg": 4,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 4,
+          "avg": 3.75,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "mountain",
+          "n": 3,
+          "avg": 3.67,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "pet",
+          "n": 8,
+          "avg": 3.5,
+          "zeroRate": 0,
+          "positiveRate": 0.88
+        },
+        {
+          "sceneId": "sunset_sunrise",
+          "n": 2,
+          "avg": 3.5,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 13,
+          "avg": 3.31,
+          "zeroRate": 0,
+          "positiveRate": 0.92
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 6,
+          "avg": 2.67,
+          "zeroRate": 0.17,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 2,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "architecture",
+          "n": 7,
+          "avg": 2.43,
+          "zeroRate": 0,
+          "positiveRate": 0.43
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 3,
+          "avg": 2.33,
+          "zeroRate": 0,
+          "positiveRate": 0.33
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 2,
+          "avg": 1.5,
+          "zeroRate": 0,
+          "positiveRate": 0
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 1,
+          "zeroRate": 0,
+          "positiveRate": 0
+        }
+      ]
+    },
+    {
+      "filterId": "lut_店主推荐_709日系奶油低饱和_e882a24171",
+      "filterName": "709日系奶油低饱和",
+      "source": "店主推荐",
+      "n": 57,
+      "avg": 2.88,
+      "zeroRate": 0.02,
+      "positiveRate": 0.68,
+      "imageCoverage": 32,
+      "sceneCoverage": 12,
+      "sceneBreakdown": [
+        {
+          "sceneId": "mountain",
+          "n": 2,
+          "avg": 3.5,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 14,
+          "avg": 3.36,
+          "zeroRate": 0,
+          "positiveRate": 0.71
+        },
+        {
+          "sceneId": "night_neon",
+          "n": 3,
+          "avg": 3.33,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 4,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 0.75
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "architecture",
+          "n": 8,
+          "avg": 2.88,
+          "zeroRate": 0,
+          "positiveRate": 0.75
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 5,
+          "avg": 2.8,
+          "zeroRate": 0,
+          "positiveRate": 0.6
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 4,
+          "avg": 2.75,
+          "zeroRate": 0,
+          "positiveRate": 0.75
+        },
+        {
+          "sceneId": "pet",
+          "n": 3,
+          "avg": 2.67,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 4,
+          "avg": 2.25,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 4,
+          "avg": 1.75,
+          "zeroRate": 0.25,
+          "positiveRate": 0.5
+        }
+      ]
+    },
+    {
+      "filterId": "lut_filter-lut_质感11_d4e9593069",
+      "filterName": "质感11.5",
+      "source": "filter_lut",
+      "n": 43,
+      "avg": 2.81,
+      "zeroRate": 0,
+      "positiveRate": 0.6,
+      "imageCoverage": 32,
+      "sceneCoverage": 11,
+      "sceneBreakdown": [
+        {
+          "sceneId": "mountain",
+          "n": 2,
+          "avg": 4,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 3,
+          "avg": 3.67,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 4,
+          "avg": 3.25,
+          "zeroRate": 0,
+          "positiveRate": 0.75
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 9,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 0.56
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "pet",
+          "n": 3,
+          "avg": 2.67,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 5,
+          "avg": 2.6,
+          "zeroRate": 0,
+          "positiveRate": 0.6
+        },
+        {
+          "sceneId": "architecture",
+          "n": 6,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 2,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 2,
+          "avg": 1.5,
+          "zeroRate": 0,
+          "positiveRate": 0
+        }
+      ]
+    },
+    {
+      "filterId": "lut_filter-lut_负片11_85214ab869",
+      "filterName": "负片11.5",
+      "source": "filter_lut",
+      "n": 51,
+      "avg": 2.78,
+      "zeroRate": 0,
+      "positiveRate": 0.61,
+      "imageCoverage": 32,
+      "sceneCoverage": 12,
+      "sceneBreakdown": [
+        {
+          "sceneId": "mountain",
+          "n": 2,
+          "avg": 4,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "indoor_home",
+          "n": 2,
+          "avg": 4,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 5,
+          "avg": 3.6,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 3,
+          "avg": 3.33,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 3,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 9,
+          "avg": 2.78,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 4,
+          "avg": 2.75,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "architecture",
+          "n": 7,
+          "avg": 2.57,
+          "zeroRate": 0,
+          "positiveRate": 0.57
+        },
+        {
+          "sceneId": "pet",
+          "n": 4,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 6,
+          "avg": 2.17,
+          "zeroRate": 0,
+          "positiveRate": 0.33
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 2,
+          "avg": 1.5,
+          "zeroRate": 0,
+          "positiveRate": 0
+        }
+      ]
+    },
+    {
+      "filterId": "lut_filter-lut_自然11_1918e5af72",
+      "filterName": "自然11.5",
+      "source": "filter_lut",
+      "n": 44,
+      "avg": 2.77,
+      "zeroRate": 0.02,
+      "positiveRate": 0.7,
+      "imageCoverage": 32,
+      "sceneCoverage": 10,
+      "sceneBreakdown": [
+        {
+          "sceneId": "forest_greenery",
+          "n": 4,
+          "avg": 3.75,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 11,
+          "avg": 3,
+          "zeroRate": 0.09,
+          "positiveRate": 0.73
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "architecture",
+          "n": 6,
+          "avg": 2.83,
+          "zeroRate": 0,
+          "positiveRate": 0.83
+        },
+        {
+          "sceneId": "pet",
+          "n": 3,
+          "avg": 2.67,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 5,
+          "avg": 2.6,
+          "zeroRate": 0,
+          "positiveRate": 0.8
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 2,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 3,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0.33
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 2,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        }
+      ]
+    },
+    {
+      "filterId": "ai_sunset_gold",
+      "filterName": "AI Sunset Gold",
+      "source": "产品调试 LUT",
+      "n": 53,
+      "avg": 2.74,
+      "zeroRate": 0.06,
+      "positiveRate": 0.66,
+      "imageCoverage": 32,
+      "sceneCoverage": 13,
+      "sceneBreakdown": [
+        {
+          "sceneId": "mountain",
+          "n": 2,
+          "avg": 3.5,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "architecture",
+          "n": 12,
+          "avg": 3.42,
+          "zeroRate": 0,
+          "positiveRate": 0.83
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 3,
+          "avg": 3.33,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 6,
+          "avg": 3.17,
+          "zeroRate": 0,
+          "positiveRate": 0.83
+        },
+        {
+          "sceneId": "night_neon",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 9,
+          "avg": 2.78,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 4,
+          "avg": 2.75,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 2,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "sunset_sunrise",
+          "n": 3,
+          "avg": 2.33,
+          "zeroRate": 0.33,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "pet",
+          "n": 3,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0.33
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 2,
+          "avg": 1.5,
+          "zeroRate": 0,
+          "positiveRate": 0
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 2,
+          "avg": 0.5,
+          "zeroRate": 0.5,
+          "positiveRate": 0
+        }
+      ]
+    },
+    {
+      "filterId": "ai_pet_soft",
+      "filterName": "AI Pet Soft",
+      "source": "产品调试 LUT",
+      "n": 50,
+      "avg": 2.46,
+      "zeroRate": 0.04,
+      "positiveRate": 0.54,
+      "imageCoverage": 32,
+      "sceneCoverage": 11,
+      "sceneBreakdown": [
+        {
+          "sceneId": "pet",
+          "n": 8,
+          "avg": 3.88,
+          "zeroRate": 0,
+          "positiveRate": 0.88
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 3.5,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 3,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "architecture",
+          "n": 8,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 2,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 3,
+          "avg": 2.33,
+          "zeroRate": 0,
+          "positiveRate": 0.67
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 4,
+          "avg": 2.25,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 7,
+          "avg": 2.14,
+          "zeroRate": 0,
+          "positiveRate": 0.57
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 3,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0.33
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 5,
+          "avg": 1.6,
+          "zeroRate": 0.2,
+          "positiveRate": 0.4
+        },
+        {
+          "sceneId": "sunset_sunrise",
+          "n": 2,
+          "avg": 1,
+          "zeroRate": 0.5,
+          "positiveRate": 0
+        }
+      ]
+    },
+    {
+      "filterId": "lut_filter-lut_正片11_408567dd45",
+      "filterName": "正片11.5",
+      "source": "filter_lut",
+      "n": 42,
+      "avg": 2.45,
+      "zeroRate": 0.02,
+      "positiveRate": 0.55,
+      "imageCoverage": 32,
+      "sceneCoverage": 11,
+      "sceneBreakdown": [
+        {
+          "sceneId": "indoor_home",
+          "n": 2,
+          "avg": 4,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "pet",
+          "n": 5,
+          "avg": 2.8,
+          "zeroRate": 0,
+          "positiveRate": 0.8
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 8,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.63
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 2,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 3,
+          "avg": 2.33,
+          "zeroRate": 0,
+          "positiveRate": 0.33
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 3,
+          "avg": 2.33,
+          "zeroRate": 0,
+          "positiveRate": 0.33
+        },
+        {
+          "sceneId": "architecture",
+          "n": 6,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0.17
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 4,
+          "avg": 1.5,
+          "zeroRate": 0.25,
+          "positiveRate": 0.25
+        }
+      ]
+    },
+    {
+      "filterId": "lut_店主推荐_709通用轻创意3_2ea096f06c",
+      "filterName": "709通用轻创意3",
+      "source": "店主推荐",
+      "n": 42,
+      "avg": 2.45,
+      "zeroRate": 0.12,
+      "positiveRate": 0.62,
+      "imageCoverage": 32,
+      "sceneCoverage": 10,
+      "sceneBreakdown": [
+        {
+          "sceneId": "auto_show",
+          "n": 3,
+          "avg": 3.67,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 3,
+          "avg": 3.67,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 4,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "pet",
+          "n": 5,
+          "avg": 2.6,
+          "zeroRate": 0,
+          "positiveRate": 0.6
+        },
+        {
+          "sceneId": "architecture",
+          "n": 6,
+          "avg": 2.5,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 2,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 8,
+          "avg": 1.63,
+          "zeroRate": 0.38,
+          "positiveRate": 0.38
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 1.5,
+          "zeroRate": 0.5,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 3,
+          "avg": 1.33,
+          "zeroRate": 0.33,
+          "positiveRate": 0.33
+        }
+      ]
+    },
+    {
+      "filterId": "lut_店主推荐_709复古年代3_0e52ad64ac",
+      "filterName": "709复古年代3",
+      "source": "店主推荐",
+      "n": 51,
+      "avg": 2.41,
+      "zeroRate": 0.12,
+      "positiveRate": 0.57,
+      "imageCoverage": 32,
+      "sceneCoverage": 11,
+      "sceneBreakdown": [
+        {
+          "sceneId": "pet",
+          "n": 7,
+          "avg": 3.57,
+          "zeroRate": 0,
+          "positiveRate": 0.86
+        },
+        {
+          "sceneId": "street_vehicle",
+          "n": 2,
+          "avg": 3.5,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "auto_show",
+          "n": 2,
+          "avg": 3,
+          "zeroRate": 0,
+          "positiveRate": 1
+        },
+        {
+          "sceneId": "flower_macro",
+          "n": 4,
+          "avg": 2.75,
+          "zeroRate": 0,
+          "positiveRate": 0.75
+        },
+        {
+          "sceneId": "food_closeup",
+          "n": 5,
+          "avg": 2.4,
+          "zeroRate": 0.2,
+          "positiveRate": 0.8
+        },
+        {
+          "sceneId": "portrait_single",
+          "n": 10,
+          "avg": 2.3,
+          "zeroRate": 0.2,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "architecture",
+          "n": 8,
+          "avg": 2.25,
+          "zeroRate": 0,
+          "positiveRate": 0.38
+        },
+        {
+          "sceneId": "sunset_sunrise",
+          "n": 2,
+          "avg": 2,
+          "zeroRate": 0,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "beach_sea",
+          "n": 4,
+          "avg": 1.75,
+          "zeroRate": 0.5,
+          "positiveRate": 0.5
+        },
+        {
+          "sceneId": "lake_river",
+          "n": 2,
+          "avg": 1.5,
+          "zeroRate": 0,
+          "positiveRate": 0
+        },
+        {
+          "sceneId": "forest_greenery",
+          "n": 2,
+          "avg": 1.5,
+          "zeroRate": 0,
+          "positiveRate": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4460 @@
+{
+  "version": 1,
+  "ratings": {
+    "food_01.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 2,
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 2,
+          "ai_beach_clear": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 0,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 0,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 0,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "ai_sunset_gold": 4,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_night_neon": 0,
+          "ai_pet_soft": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:33:07.742Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T07:19:01.064Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 4,
+          "ai_forest_fresh": 2,
+          "ai_portrait_soft": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 0,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T09:43:43.912Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_filter-lut_负片11_85214ab869": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:59:23.569Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "ai_beach_clear": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:11:37.647Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 1,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 4,
+          "lut_filter-lut_noir_15bb803b4b": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:19:09.682Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 2,
+          "ai_portrait_soft": 4,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "ai_sunset_gold": 2,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 0,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_night_neon": 0,
+          "ai_pet_soft": 0,
+          "ai_beach_clear": 1,
+          "ai_forest_fresh": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:31:04.107Z"
+      }
+    },
+    "pet_01.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4,
+          "ai_pet_soft": 5,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T09:33:35.121Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 3,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "ai_sunset_gold": 1,
+          "ai_beach_clear": 0,
+          "ai_forest_fresh": 1,
+          "ai_night_neon": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "ai_food_warm": 1,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 0,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:45:30.701Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:24:01.554Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 3,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T10:58:24.569Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 5,
+          "ai_portrait_soft": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:33:30.381Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 2,
+          "ai_portrait_soft": 4,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_filter-lut_正片11_408567dd45": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 1,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_质感11_d4e9593069": 4,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "ai_food_warm": 1,
+          "ai_sunset_gold": 2,
+          "ai_beach_clear": 0,
+          "ai_forest_fresh": 2,
+          "ai_night_neon": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T08:33:19.790Z"
+      }
+    },
+    "architecture_02.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 1,
+          "ai_sunset_gold": 4,
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 2,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 2,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_analog_eebccaae7e": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "lut_filter-lut_noir_15bb803b4b": 1,
+          "ai_food_warm": 3,
+          "ai_night_neon": 2,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T03:23:18.992Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:42:30.343Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T03:05:08.026Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 2,
+          "ai_sunset_gold": 3,
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 4,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 2,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 4,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 2,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 1,
+          "lut_filter-lut_noir_15bb803b4b": 1,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "ai_food_warm": 2,
+          "ai_night_neon": 3,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T05:17:13.194Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:34:11.515Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_mountain_crisp": 5,
+          "lut_v3_负片11_85214ab869": 4,
+          "lut_v3_自然11_1918e5af72": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:44:29.118Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 4,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "ai_forest_fresh": 2,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 1,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_analog_eebccaae7e": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 1,
+          "ai_portrait_soft": 3,
+          "ai_food_warm": 2,
+          "ai_pet_soft": 2,
+          "ai_beach_clear": 1,
+          "ai_night_neon": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-06T11:38:55.621Z"
+      }
+    },
+    "portrait_01.webp": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 2,
+          "ai_sunset_gold": 2,
+          "ai_forest_fresh": 2,
+          "ai_portrait_soft": 3,
+          "ai_night_neon": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 2,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 0,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:50:57.081Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影胶片青橙强化_78df1564aa": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T07:18:14.248Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4,
+          "ai_beach_clear": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 4,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T09:34:51.381Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:25:39.828Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 4,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "ai_sunset_gold": 3,
+          "ai_pet_soft": 3,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T11:13:21.031Z"
+      }
+    },
+    "architecture_01.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 2,
+          "ai_sunset_gold": 4,
+          "ai_forest_fresh": 3,
+          "ai_night_neon": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 3,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_analog_eebccaae7e": 3,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_filter-lut_noir_15bb803b4b": 4,
+          "ai_portrait_soft": 3,
+          "ai_food_warm": 2,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T03:01:58.152Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 5,
+          "ai_beach_clear": 0,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "ai_sunset_gold": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 5,
+          "ai_night_neon": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 5,
+          "ai_portrait_soft": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-03T09:44:26.621Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 1,
+          "ai_sunset_gold": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4,
+          "ai_night_neon": 2,
+          "lut_filter-lut_noir_15bb803b4b": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "ai_portrait_soft": 4,
+          "ai_forest_fresh": 5,
+          "lut_filter-lut_质感11_d4e9593069": 4,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 3,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_正片11_408567dd45": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "ai_food_warm": 2,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T04:06:46.635Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 4,
+          "ai_forest_fresh": 4,
+          "ai_pet_soft": 4,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:17:09.520Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 4,
+          "ai_forest_fresh": 2,
+          "ai_night_neon": 4,
+          "ai_beach_clear": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 4,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 2,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 4,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 2,
+          "lut_filter-lut_chrome_e9b2fc5e57": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 1,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 2,
+          "ai_portrait_soft": 2,
+          "ai_food_warm": 2,
+          "ai_pet_soft": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T05:01:59.493Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 2,
+          "ai_sunset_gold": 3,
+          "ai_forest_fresh": 4,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 4,
+          "lut_filter-lut_noir_15bb803b4b": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "ai_portrait_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:38:40.124Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_analog_eebccaae7e": 3,
+          "ai_forest_fresh": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:49:04.804Z"
+      }
+    },
+    "architecture_03.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 3,
+          "ai_sunset_gold": 2,
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 3,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 1,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_filter-lut_noir_15bb803b4b": 2,
+          "ai_food_warm": 0,
+          "ai_night_neon": 0,
+          "ai_pet_soft": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T04:00:42.895Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 5,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T09:54:15.217Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 2,
+          "ai_sunset_gold": 2,
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 4,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 3,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 3,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 1,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_filter-lut_noir_15bb803b4b": 2,
+          "ai_food_warm": 2,
+          "ai_night_neon": 3,
+          "ai_pet_soft": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:16:05.779Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:36:11.057Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 3,
+          "lut_v3_33portra400-2_b55d2bac4d": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:45:23.472Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_filter-lut_chrome_e9b2fc5e57": 4,
+          "ai_portrait_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:17:34.216Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 4,
+          "lut_filter-lut_质感11_d4e9593069": 4,
+          "ai_forest_fresh": 3,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 5,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 2,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 2,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_analog_eebccaae7e": 2,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_正片11_408567dd45": 1,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 3,
+          "ai_portrait_soft": 2,
+          "ai_food_warm": 2,
+          "ai_pet_soft": 3,
+          "ai_beach_clear": 0,
+          "ai_night_neon": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T04:16:34.384Z"
+      }
+    },
+    "pet_02.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 1,
+          "ai_portrait_soft": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 0,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "ai_food_warm": 1,
+          "ai_sunset_gold": 2,
+          "ai_night_neon": 0,
+          "ai_forest_fresh": 2,
+          "ai_beach_clear": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:46:40.689Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 5,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 5,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T09:54:31.429Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "ai_pet_soft": 1,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 1,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 1,
+          "ai_sunset_gold": 2,
+          "ai_beach_clear": 0,
+          "ai_forest_fresh": 2,
+          "ai_night_neon": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T08:36:43.687Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:24:25.769Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T11:07:41.068Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 5,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 5,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 5,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:33:19.110Z"
+      }
+    },
+    "mountain_01.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4,
+          "ai_sunset_gold": 3,
+          "ai_beach_clear": 2,
+          "ai_night_neon": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 0,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 2,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 1,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_portrait_soft": 2,
+          "ai_food_warm": 0,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:44:45.152Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 5,
+          "ai_forest_fresh": 5,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 5,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 5,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T09:55:14.180Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:23:28.549Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4,
+          "ai_night_neon": 4,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "ai_sunset_gold": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T10:56:30.370Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 5,
+          "lut_filter-lut_负片11_85214ab869": 5,
+          "lut_filter-lut_质感11_d4e9593069": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:33:51.575Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 2,
+          "ai_night_neon": 4,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 1,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 1,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "ai_portrait_soft": 2,
+          "ai_food_warm": 1,
+          "ai_pet_soft": 2,
+          "ai_beach_clear": 0,
+          "ai_sunset_gold": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:51:17.927Z"
+      }
+    },
+    "pet_06.jpg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 3,
+          "ai_portrait_soft": 3,
+          "ai_forest_fresh": 1,
+          "ai_beach_clear": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 0,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 3,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "ai_sunset_gold": 3,
+          "ai_food_warm": 1,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_night_neon": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:49:00.920Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 5,
+          "ai_portrait_soft": 3,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 2,
+          "lut_filter-lut_analog_eebccaae7e": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:54:44.277Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 5,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:25:12.916Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 4,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_chrome_e9b2fc5e57": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T11:09:11.868Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 5,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:33:01.742Z"
+      }
+    },
+    "auto_01.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 5,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 5,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:00:15.556Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 3,
+          "ai_sunset_gold": 3,
+          "ai_forest_fresh": 3,
+          "ai_night_neon": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 2,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 1,
+          "ai_portrait_soft": 4,
+          "ai_food_warm": 3,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T04:06:21.506Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 4,
+          "ai_sunset_gold": 2,
+          "ai_forest_fresh": 3,
+          "ai_night_neon": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 2,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 2,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 2,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 2,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 2,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 2,
+          "ai_portrait_soft": 3,
+          "ai_pet_soft": 2,
+          "ai_food_warm": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:23:36.032Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 3,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:37:36.093Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:46:15.480Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 5,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 5,
+          "lut_filter-lut_质感11_d4e9593069": 5,
+          "ai_pet_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:20:03.799Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 5,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 5,
+          "lut_filter-lut_质感11_d4e9593069": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 2,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "ai_forest_fresh": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 2,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_chrome_e9b2fc5e57": 4,
+          "lut_filter-lut_analog_eebccaae7e": 2,
+          "lut_filter-lut_noir_15bb803b4b": 1,
+          "ai_portrait_soft": 2,
+          "ai_food_warm": 4,
+          "ai_sunset_gold": 3,
+          "ai_pet_soft": 3,
+          "ai_beach_clear": 1,
+          "ai_night_neon": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T04:19:09.486Z"
+      }
+    },
+    "flower_01.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 5,
+          "ai_portrait_soft": 5,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T04:05:17.127Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:55:26.593Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 4,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:01:31.780Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 3,
+          "ai_beach_clear": 2,
+          "ai_sunset_gold": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 2,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 1,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 2,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 2,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 2,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 3,
+          "ai_night_neon": 1,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:23:34.274Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:31:05.346Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "ai_forest_fresh": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:15:58.410Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_质感11_d4e9593069": 4,
+          "ai_sunset_gold": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 2,
+          "ai_portrait_soft": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "ai_pet_soft": 4,
+          "ai_beach_clear": 0,
+          "ai_night_neon": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:24:40.396Z"
+      }
+    },
+    "flower_02.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T09:57:38.844Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:56:53.625Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:02:32.399Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 1,
+          "ai_beach_clear": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 0,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 1,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 1,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 2,
+          "ai_sunset_gold": 2,
+          "ai_night_neon": 0,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:28:01.979Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_质感11_d4e9593069": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:31:47.194Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_负片11_85214ab869": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:16:48.426Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "ai_forest_fresh": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:25:40.171Z"
+      }
+    },
+    "curated_group_portrait_multiskin_20251219_103412782.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 5,
+          "ai_forest_fresh": 3,
+          "lut_v3_33portra400-2_b55d2bac4d": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:42:45.369Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "ai_sunset_gold": 4,
+          "lut_filter-lut_noir_15bb803b4b": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 4,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_filter-lut_analog_eebccaae7e": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:37:38.626Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "ai_night_neon": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 2,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 1,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 1,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 1,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 1,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "lut_filter-lut_noir_15bb803b4b": 1,
+          "ai_food_warm": 1,
+          "ai_forest_fresh": 3,
+          "ai_beach_clear": 1,
+          "ai_pet_soft": 1,
+          "ai_sunset_gold": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:36:10.882Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 0,
+          "ai_portrait_soft": 3,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "ai_sunset_gold": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:50:08.658Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_正片11_408567dd45": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:41:46.250Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:07:59.624Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 2,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "ai_night_neon": 1,
+          "ai_sunset_gold": 2,
+          "ai_food_warm": 0,
+          "lut_filter-lut_noir_15bb803b4b": 2,
+          "ai_forest_fresh": 1,
+          "ai_beach_clear": 0,
+          "ai_pet_soft": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T04:46:48.670Z"
+      }
+    },
+    "curated_portrait_backlight_20251126_170210481.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_自然11_1918e5af72": 4,
+          "lut_filter-lut_质感11_d4e9593069": 5,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "ai_forest_fresh": 5,
+          "ai_beach_clear": 5,
+          "ai_portrait_soft": 5,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:44:34.489Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 4,
+          "lut_filter-lut_analog_eebccaae7e": 3,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:49:14.637Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "ai_forest_fresh": 2,
+          "ai_beach_clear": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 2,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "lut_filter-lut_noir_15bb803b4b": 2,
+          "ai_food_warm": 1,
+          "ai_sunset_gold": 3,
+          "ai_night_neon": 1,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:04:36.669Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:50:55.545Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 5,
+          "lut_filter-lut_质感11_d4e9593069": 5,
+          "ai_portrait_soft": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:42:30.114Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_filter-lut_质感11_d4e9593069": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:10:09.208Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 1,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:16:37.913Z"
+      }
+    },
+    "curated_portrait_close_skin_20251126_162611286.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 5,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 5,
+          "lut_filter-lut_自然11_1918e5af72": 0,
+          "lut_filter-lut_正片11_408567dd45": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:45:19.916Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:50:30.612Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:51:45.338Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 2,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 4,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 0,
+          "ai_sunset_gold": 3,
+          "ai_night_neon": 0,
+          "ai_forest_fresh": 2,
+          "ai_beach_clear": 1,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:15:22.690Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:58:23.250Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:11:14.157Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:18:26.812Z"
+      }
+    },
+    "curated_selfie_multiskin_20251219_075106613.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 5,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 3,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 4,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:46:10.308Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 4,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:53:42.951Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "ai_portrait_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:53:02.481Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 0,
+          "ai_portrait_soft": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 0,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 2,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 1,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 4,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "ai_food_warm": 1,
+          "ai_sunset_gold": 2,
+          "ai_forest_fresh": 1,
+          "ai_beach_clear": 1,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:18:30.258Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 4,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 4,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "ai_portrait_soft": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T08:23:06.162Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:12:07.923Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:19:10.173Z"
+      }
+    },
+    "curated_street_cyclist_motion_20251213_102848194.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 5,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 5,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_analog_eebccaae7e": 4,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 2,
+          "lut_filter-lut_chrome_c7eb740182": 4,
+          "ai_pet_soft": 1,
+          "lut_filter-lut_noir_15bb803b4b": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:47:25.774Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_noir_15bb803b4b": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:54:27.893Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 4,
+          "lut_filter-lut_analog_eebccaae7e": 4,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:59:12.052Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 4,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 4,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 4,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "lut_filter-lut_noir_15bb803b4b": 1,
+          "ai_portrait_soft": 2,
+          "ai_food_warm": 1,
+          "ai_sunset_gold": 3,
+          "ai_forest_fresh": 2,
+          "ai_beach_clear": 1,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:21:44.980Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:31:34.884Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 4,
+          "lut_filter-lut_noir_15bb803b4b": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:15:41.509Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 4,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 3,
+          "lut_filter-lut_noir_15bb803b4b": 3,
+          "ai_beach_clear": 1,
+          "ai_forest_fresh": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:22:24.589Z"
+      }
+    },
+    "flower_03.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 4,
+          "ai_forest_fresh": 4,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 4,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_filter-lut_analog_eebccaae7e": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:48:48.320Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 4,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T06:57:45.278Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 3,
+          "ai_beach_clear": 4,
+          "lut_filter-lut_chrome_e9b2fc5e57": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:06:01.712Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 1,
+          "ai_portrait_soft": 0,
+          "ai_beach_clear": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 0,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 4,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 1,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 1,
+          "ai_sunset_gold": 1,
+          "ai_night_neon": 0,
+          "ai_pet_soft": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:31:03.736Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:32:27.912Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "ai_pet_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:18:14.876Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 3,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:26:43.121Z"
+      }
+    },
+    "food_02.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 3,
+          "ai_food_warm": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:49:07.630Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 4,
+          "lut_filter-lut_负片11_85214ab869": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:00:15.121Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 4,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:12:54.850Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 1,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 1,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 1,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "ai_portrait_soft": 3,
+          "ai_sunset_gold": 3,
+          "ai_night_neon": 1,
+          "ai_forest_fresh": 3,
+          "ai_beach_clear": 1,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:35:14.888Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:32:09.920Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:19:21.921Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:31:19.746Z"
+      }
+    },
+    "food_03.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4,
+          "ai_food_warm": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:49:15.231Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:01:02.769Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 3,
+          "ai_forest_fresh": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:15:36.177Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 3,
+          "ai_food_warm": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 1,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_beach_clear": 3,
+          "ai_night_neon": 1,
+          "ai_sunset_gold": 3,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:52:07.811Z"
+      },
+      "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39": {
+        "user": {
+          "id": "lark:ou_28c1f2fb29fd1aa0e57ade099e9aec39",
+          "name": "Tiger Xu",
+          "email": "tiger.xu@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 2,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-01T07:20:00.005Z"
+      }
+    },
+    "food_04.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:49:26.279Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 4,
+          "ai_forest_fresh": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:03:24.523Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "ai_sunset_gold": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:18:16.126Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 2,
+          "ai_forest_fresh": 2,
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 1,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_自然11_1918e5af72": 1,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_sunset_gold": 2,
+          "ai_night_neon": 1,
+          "ai_beach_clear": 1,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T08:09:54.334Z"
+      }
+    },
+    "portrait_02.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:50:30.011Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:28:13.836Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "ai_night_neon": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 1,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 1,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 0,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "ai_food_warm": 0,
+          "ai_sunset_gold": 3,
+          "ai_forest_fresh": 2,
+          "ai_beach_clear": 0,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:43:00.179Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T11:19:11.471Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 5,
+          "lut_filter-lut_自然11_1918e5af72": 5,
+          "ai_portrait_soft": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:32:48.933Z"
+      }
+    },
+    "ishigaki_harbor_blue_water_20260607_202202988.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 4,
+          "ai_beach_clear": 5,
+          "ai_portrait_soft": 4,
+          "lut_filter-lut_chrome_c7eb740182": 4,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:53:52.751Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3,
+          "ai_beach_clear": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:08:42.015Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:37:46.955Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 1,
+          "ai_forest_fresh": 1,
+          "ai_sunset_gold": 1,
+          "ai_night_neon": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 3,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 0,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_analog_eebccaae7e": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_portrait_soft": 3,
+          "ai_food_warm": 3,
+          "ai_pet_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:03:08.960Z"
+      }
+    },
+    "ishigaki_tropical_path_20260605_234647286.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 3,
+          "ai_portrait_soft": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:56:07.843Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 4,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:22:15.914Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 2,
+          "ai_beach_clear": 1,
+          "ai_portrait_soft": 3,
+          "ai_night_neon": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 0,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 1,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 0,
+          "ai_sunset_gold": 1,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:41:03.771Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_filter-lut_正片11_408567dd45": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T10:51:38.984Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 5,
+          "lut_filter-lut_自然11_1918e5af72": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:34:04.958Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_自然11_1918e5af72": 4,
+          "ai_forest_fresh": 2,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 0,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 1,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "ai_sunset_gold": 1,
+          "ai_food_warm": 1,
+          "ai_portrait_soft": 3,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_night_neon": 1,
+          "ai_beach_clear": 1,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:45:40.305Z"
+      }
+    },
+    "indoor_02.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 5,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 4,
+          "lut_filter-lut_正片11_408567dd45": 5,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 0,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_filter-lut_analog_eebccaae7e": 4,
+          "lut_filter-lut_cold_b4ced4ef7d": 5,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:56:46.584Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:04:10.498Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_chrome_e9b2fc5e57": 4,
+          "ai_night_neon": 3,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:20:15.496Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 0,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 4,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 1,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 0,
+          "ai_sunset_gold": 0,
+          "ai_night_neon": 0,
+          "ai_forest_fresh": 3,
+          "ai_beach_clear": 3,
+          "ai_pet_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T08:22:42.704Z"
+      }
+    },
+    "ishigaki_beach_cloud_person_20260607_153346875.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:56:57.226Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:05:37.047Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:22:46.513Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 0,
+          "ai_sunset_gold": 1,
+          "ai_forest_fresh": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 0,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 1,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 0,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 1,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_pet_soft": 3,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T08:26:32.778Z"
+      }
+    },
+    "ishigaki_coast_blue_sky_20260607_032950437.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-29T10:57:07.221Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:07:34.394Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 2,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:36:22.671Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 4,
+          "ai_forest_fresh": 4,
+          "ai_sunset_gold": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 2,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 2,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 2,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_portrait_soft": 2,
+          "ai_food_warm": 2,
+          "ai_night_neon": 1,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:01:36.892Z"
+      }
+    },
+    "ishigaki_blue_hour_street_20260606_044332026.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 4,
+          "ai_forest_fresh": 4,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 4,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "ai_pet_soft": 3,
+          "ai_portrait_soft": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T02:25:18.617Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:06:09.482Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 4,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 4,
+          "ai_portrait_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:28:29.017Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 2,
+          "ai_beach_clear": 1,
+          "ai_sunset_gold": 3,
+          "ai_forest_fresh": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 4,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 4,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 2,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_portrait_soft": 3,
+          "ai_food_warm": 1,
+          "ai_pet_soft": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T08:57:56.031Z"
+      }
+    },
+    "ishigaki_night_hotel_street_20260606_044448523.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 4,
+          "ai_forest_fresh": 4,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 4,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 4,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 4,
+          "lut_filter-lut_noir_15bb803b4b": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T02:26:57.327Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 0,
+          "ai_sunset_gold": 3,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:17:55.922Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 3,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 4,
+          "ai_forest_fresh": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:48:32.319Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 3,
+          "ai_beach_clear": 1,
+          "ai_sunset_gold": 3,
+          "ai_forest_fresh": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 2,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 2,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 2,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 1,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 2,
+          "lut_filter-lut_正片11_408567dd45": 2,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 2,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 2,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_portrait_soft": 2,
+          "ai_food_warm": 0,
+          "ai_pet_soft": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:22:50.886Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_night_neon": 5
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:36:23.547Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "ai_night_neon": 3,
+          "ai_forest_fresh": 1,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:37:51.210Z"
+      }
+    },
+    "ishigaki_mangrove_gray_beach_20260606_015120968.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 4,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 5,
+          "lut_filter-lut_noir_15bb803b4b": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T02:27:30.477Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 4,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:09:53.861Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 4,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "ai_forest_fresh": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:41:23.976Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 0,
+          "ai_sunset_gold": 0,
+          "ai_forest_fresh": 1,
+          "ai_portrait_soft": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 0,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 1,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 1,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 1,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 1,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 3,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 1,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 3,
+          "ai_night_neon": 1,
+          "ai_pet_soft": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:18:30.294Z"
+      }
+    },
+    "ishigaki_overcast_greenery_20260606_000408182.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T02:28:27.296Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4,
+          "lut_filter-lut_负片11_85214ab869": 4,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:19:15.406Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:30:38.920Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 2,
+          "ai_beach_clear": 1,
+          "ai_portrait_soft": 2,
+          "ai_sunset_gold": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 1,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 2,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 2,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 1,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 0,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 0,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 0,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 1,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 2,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 1,
+          "lut_filter-lut_正片11_408567dd45": 1,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 3,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 2,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 1,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_food_warm": 0,
+          "ai_night_neon": 0,
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:37:37.815Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_自然11_1918e5af72": 4,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:36:11.483Z"
+      },
+      "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9": {
+        "user": {
+          "id": "lark:ou_a2b0cd3f42cfb00863cd0c4ac7f363e9",
+          "name": "Lia Ye",
+          "email": "lia.ye@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_filter-lut_自然11_1918e5af72": 4,
+          "ai_forest_fresh": 3,
+          "lut_filter-lut_负片11_85214ab869": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-02T06:39:08.992Z"
+      }
+    },
+    "ishigaki_sunset_beach_20260607_152506332.jpg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 4,
+          "ai_beach_clear": 4,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 0,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 4,
+          "ai_pet_soft": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T02:29:04.291Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 3,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 4,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T07:20:20.562Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_sunset_gold": 3,
+          "ai_beach_clear": 2,
+          "ai_forest_fresh": 2,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 1,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 1,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": 3,
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 2,
+          "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": 3,
+          "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": 3,
+          "lut_店主推荐_709柔和的中性色调01_3291423b30": 1,
+          "lut_店主推荐_709商业鲜明高对比_c136a01eeb": 2,
+          "lut_店主推荐_709通用轻创意_826b1b48a6": 0,
+          "lut_店主推荐_709通用轻创意3_2ea096f06c": 3,
+          "lut_filter-lut_33portra400-2_b55d2bac4d": 0,
+          "lut_filter-lut_菲林黑白11_80c0cbfe36": 0,
+          "lut_filter-lut_负片11_85214ab869": 2,
+          "lut_filter-lut_暖调11_fcb25bb7ad": 3,
+          "lut_filter-lut_正片11_408567dd45": 3,
+          "lut_filter-lut_质感11_d4e9593069": 2,
+          "lut_filter-lut_自然11_1918e5af72": 2,
+          "lut_filter-lut_analog_eebccaae7e": 0,
+          "lut_filter-lut_chrome_e9b2fc5e57": 3,
+          "lut_filter-lut_cold_b4ced4ef7d": 0,
+          "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": 0,
+          "lut_filter-lut_noir_15bb803b4b": 0,
+          "ai_portrait_soft": 2,
+          "ai_food_warm": 2,
+          "ai_night_neon": 0,
+          "ai_pet_soft": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:39:29.153Z"
+      },
+      "lark:ou_699c569f564decf623a4e13474f6dd65": {
+        "user": {
+          "id": "lark:ou_699c569f564decf623a4e13474f6dd65",
+          "name": "Ethan Lv",
+          "email": "ethan.lv_intern@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T09:43:09.038Z"
+      },
+      "lark:ou_bde858e2c287e45bb799791c3cea03c7": {
+        "user": {
+          "id": "lark:ou_bde858e2c287e45bb799791c3cea03c7",
+          "name": "Alex Huang",
+          "email": "alex.huang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 4,
+          "ai_sunset_gold": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-30T12:34:17.134Z"
+      }
+    },
+    "滤镜标注场景/复杂光环境.png": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709日系奶油低饱和_e882a24171": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-07-06T03:13:12.723Z"
+      }
+    }
+  },
+  "updatedAt": "2026-07-06T11:38:55.621Z"
+}

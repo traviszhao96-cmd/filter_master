@@ -1,0 +1,96 @@
+{
+  "labels": [
+    {
+      "index": 424,
+      "label": "Aircraft",
+      "confidence": 0.66391814
+    },
+    {
+      "index": 367,
+      "label": "Airplane",
+      "confidence": 0.6389946
+    },
+    {
+      "index": 236,
+      "label": "Tableware",
+      "confidence": 0.60228
+    },
+    {
+      "index": 184,
+      "label": "Food",
+      "confidence": 0.5818112
+    },
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.56200117
+    },
+    {
+      "index": 322,
+      "label": "Wheel",
+      "confidence": 0.5603176
+    },
+    {
+      "index": 253,
+      "label": "Metal",
+      "confidence": 0.5333236
+    },
+    {
+      "index": 134,
+      "label": "Cutlery",
+      "confidence": 0.5061919
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 424,
+      "label": "Aircraft",
+      "confidence": 0.66391814
+    },
+    {
+      "index": 367,
+      "label": "Airplane",
+      "confidence": 0.6389946
+    },
+    {
+      "index": 236,
+      "label": "Tableware",
+      "confidence": 0.60228
+    },
+    {
+      "index": 184,
+      "label": "Food",
+      "confidence": 0.5818112
+    },
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.56200117
+    },
+    {
+      "index": 322,
+      "label": "Wheel",
+      "confidence": 0.5603176
+    },
+    {
+      "index": 253,
+      "label": "Metal",
+      "confidence": 0.5333236
+    },
+    {
+      "index": 134,
+      "label": "Cutlery",
+      "confidence": 0.5061919
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:41:07.864Z",
+    "sourceImage": "25131-ishigaki/IMG_20260606_033025944.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

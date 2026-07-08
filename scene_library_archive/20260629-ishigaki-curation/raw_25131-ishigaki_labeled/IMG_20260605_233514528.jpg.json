@@ -1,0 +1,96 @@
+{
+  "labels": [
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.9133231
+    },
+    {
+      "index": 284,
+      "label": "River",
+      "confidence": 0.85307306
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.8463269
+    },
+    {
+      "index": 20,
+      "label": "Bird",
+      "confidence": 0.80808187
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.7307705
+    },
+    {
+      "index": 432,
+      "label": "Swamp",
+      "confidence": 0.7249452
+    },
+    {
+      "index": 241,
+      "label": "Lake",
+      "confidence": 0.60683495
+    },
+    {
+      "index": 338,
+      "label": "Duck",
+      "confidence": 0.5958511
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.9133231
+    },
+    {
+      "index": 284,
+      "label": "River",
+      "confidence": 0.85307306
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.8463269
+    },
+    {
+      "index": 20,
+      "label": "Bird",
+      "confidence": 0.80808187
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.7307705
+    },
+    {
+      "index": 432,
+      "label": "Swamp",
+      "confidence": 0.7249452
+    },
+    {
+      "index": 241,
+      "label": "Lake",
+      "confidence": 0.60683495
+    },
+    {
+      "index": 338,
+      "label": "Duck",
+      "confidence": 0.5958511
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:40:43.070Z",
+    "sourceImage": "25131-ishigaki/IMG_20260605_233514528.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

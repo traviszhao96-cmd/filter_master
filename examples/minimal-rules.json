@@ -1,0 +1,65 @@
+﻿{
+  "schemaVersion": 1,
+  "labelThreshold": 0.55,
+  "detectIntervalMs": 2500,
+  "maxRecommendations": 3,
+  "filters": [
+    {
+      "id": "ai_food_warm",
+      "effectName": "9102",
+      "displayName": "AI Food Warm",
+      "lutFile": "luts/ai_food_warm.png",
+      "defaultStrength": 82,
+      "iqaStatus": "approved"
+    },
+    {
+      "id": "ai_portrait_soft",
+      "effectName": "9101",
+      "displayName": "AI Portrait Soft",
+      "lutFile": "luts/ai_portrait_soft.png",
+      "defaultStrength": 78,
+      "iqaStatus": "approved"
+    },
+    {
+      "id": "ai_mountain_crisp",
+      "effectName": "9114",
+      "displayName": "AI Mountain Crisp",
+      "lutFile": "luts/ai_mountain_crisp.png",
+      "defaultStrength": 80,
+      "iqaStatus": "approved"
+    }
+  ],
+  "scenes": [
+    {
+      "sceneId": "food_closeup",
+      "displayName": "Food",
+      "priority": 96,
+      "labels": [
+        { "index": 184, "minConfidence": 0.55, "weight": 120 },
+        { "index": 48, "minConfidence": 0.50, "weight": 90 },
+        { "index": 276, "minConfidence": 0.50, "weight": 100 }
+      ],
+      "recommendations": [ "ai_food_warm", "ai_portrait_soft", "ai_mountain_crisp" ]
+    },
+    {
+      "sceneId": "people_daily",
+      "displayName": "People",
+      "priority": 92,
+      "labels": [
+        { "index": 66, "minConfidence": 0.55, "weight": 120 },
+        { "index": 386, "minConfidence": 0.50, "weight": 70 }
+      ],
+      "recommendations": [ "ai_portrait_soft", "ai_food_warm", "ai_mountain_crisp" ]
+    },
+    {
+      "sceneId": "mountain_landscape",
+      "displayName": "Mountain",
+      "priority": 88,
+      "labels": [
+        { "index": 337, "minConfidence": 0.55, "weight": 120 }
+      ],
+      "recommendations": [ "ai_mountain_crisp", "ai_food_warm", "ai_portrait_soft" ]
+    }
+  ]
+}
+

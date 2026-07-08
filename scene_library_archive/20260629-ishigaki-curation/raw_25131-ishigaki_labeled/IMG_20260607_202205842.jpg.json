@@ -1,0 +1,86 @@
+{
+  "labels": [
+    {
+      "index": 18,
+      "label": "Bridge",
+      "confidence": 0.8827036
+    },
+    {
+      "index": 45,
+      "label": "Boat",
+      "confidence": 0.80275685
+    },
+    {
+      "index": 284,
+      "label": "River",
+      "confidence": 0.801882
+    },
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.7713045
+    },
+    {
+      "index": 167,
+      "label": "Vacation",
+      "confidence": 0.651933
+    },
+    {
+      "index": 360,
+      "label": "Dog",
+      "confidence": 0.64901483
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.60920346
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 18,
+      "label": "Bridge",
+      "confidence": 0.8827036
+    },
+    {
+      "index": 45,
+      "label": "Boat",
+      "confidence": 0.80275685
+    },
+    {
+      "index": 284,
+      "label": "River",
+      "confidence": 0.801882
+    },
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.7713045
+    },
+    {
+      "index": 167,
+      "label": "Vacation",
+      "confidence": 0.651933
+    },
+    {
+      "index": 360,
+      "label": "Dog",
+      "confidence": 0.64901483
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.60920346
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:42:01.657Z",
+    "sourceImage": "25131-ishigaki/IMG_20260607_202205842.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

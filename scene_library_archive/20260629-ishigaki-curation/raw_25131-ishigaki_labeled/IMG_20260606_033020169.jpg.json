@@ -1,0 +1,56 @@
+{
+  "labels": [
+    {
+      "index": 406,
+      "label": "Tire",
+      "confidence": 0.75033563
+    },
+    {
+      "index": 322,
+      "label": "Wheel",
+      "confidence": 0.73595136
+    },
+    {
+      "index": 253,
+      "label": "Metal",
+      "confidence": 0.7031205
+    },
+    {
+      "index": 236,
+      "label": "Tableware",
+      "confidence": 0.5001017
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 406,
+      "label": "Tire",
+      "confidence": 0.75033563
+    },
+    {
+      "index": 322,
+      "label": "Wheel",
+      "confidence": 0.73595136
+    },
+    {
+      "index": 253,
+      "label": "Metal",
+      "confidence": 0.7031205
+    },
+    {
+      "index": 236,
+      "label": "Tableware",
+      "confidence": 0.5001017
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:41:06.586Z",
+    "sourceImage": "25131-ishigaki/IMG_20260606_033020169.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

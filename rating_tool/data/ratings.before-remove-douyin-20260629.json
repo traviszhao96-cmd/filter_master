@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "ratings": {
+    "20260626-144622.jpeg": {
+      "local:travis-zhao": {
+        "user": {
+          "id": "local:travis-zhao",
+          "name": "travis zhao",
+          "email": "",
+          "authProvider": "local"
+        },
+        "filters": {
+          "lut_抖音热门推荐_抖音热门推荐01_c000ea1b79": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T07:21:29.374Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_food_warm": 2
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:05:53.152Z"
+      }
+    },
+    "20241230-151849.jpeg": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_portrait_soft": 4,
+          "ai_pet_soft": 0
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T09:37:19.391Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 3,
+          "lut_抖音热门推荐_抖音热门推荐10_23bf67f8a2": 0,
+          "lut_抖音热门推荐_抖音热门推荐09_e9fb17d83a": 0,
+          "lut_抖音热门推荐_抖音热门推荐08_87ebe4e427": 0,
+          "lut_抖音热门推荐_抖音热门推荐11_6bc8cbac92": 0,
+          "lut_抖音热门推荐_抖音热门推荐12_6790ca3854": 0,
+          "ai_portrait_soft": 3,
+          "ai_indoor_cozy": 2,
+          "lut_抖音热门推荐_抖音热门推荐01_c000ea1b79": 0,
+          "lut_抖音热门推荐_抖音热门推荐02_0dcf77a89b": 0,
+          "lut_抖音热门推荐_抖音热门推荐03_e5750ec58c": 0,
+          "lut_抖音热门推荐_抖音热门推荐04_dac9b9e6a8": 0,
+          "lut_抖音热门推荐_抖音热门推荐05_706cf088c1": 0,
+          "lut_抖音热门推荐_抖音热门推荐06_6ef8e8178a": 0,
+          "lut_抖音热门推荐_抖音热门推荐07_e819633b89": 0,
+          "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": 3,
+          "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": 0,
+          "lut_店主推荐_709电影胶片青橙强化_78df1564aa": 2,
+          "lut_店主推荐_709复古胶片褪色_d312642aaf": 1,
+          "lut_店主推荐_709复古年代_36a67e28f4": 0,
+          "lut_店主推荐_709复古年代2_354b8abc64": 2,
+          "lut_店主推荐_709复古年代3_0e52ad64ac": 3,
+          "lut_店主推荐_709复古抬黑褪色_f25d60c8dd": 0,
+          "lut_店主推荐_709复古抬黑褪色清透_7d3d70bc6a": 0,
+          "lut_店主推荐_709复古抬黑褪色柔和_32abe2ac62": 0,
+          "lut_店主推荐_709复古抬黑褪色细腻_969998f329": 1,
+          "lut_店主推荐_709复古抬黑褪色自然_c4cb91e7be": 1,
+          "lut_店主推荐_709复古土色柔和对比_c199f0a566": 2,
+          "lut_店主推荐_709复古土色适中对比_74a752411b": 2,
+          "lut_店主推荐_709复古土色稳重对比_9b36ea43db": 2,
+          "lut_店主推荐_709复古褪色低饱和柔对比_dd6a19f2fd": 3,
+          "lut_店主推荐_709复古褪色极低饱和标准对比_ae936ebda6": 3,
+          "lut_店主推荐_709复古褪色极低饱和柔对比_7bc430ed9a": 3,
+          "lut_店主推荐_709黑白硬朗质感_971fbcc091": 0,
+          "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": 3,
+          "lut_店主推荐_709纪实纪录片_09a6ac3f84": 3,
+          "lut_店主推荐_709纪实中性标准_f5ab33f703": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:21:14.650Z"
+      }
+    },
+    "20260626-144825.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 3,
+          "ai_sunset_gold": 4,
+          "ai_forest_fresh": 3,
+          "ai_arch_chrome": 2,
+          "ai_street_story": 1,
+          "ai_document_clean": 3,
+          "ai_portrait_soft": 1
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:05:19.817Z"
+      }
+    },
+    "20260626-144552.webp": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:05:47.318Z"
+      }
+    },
+    "20260626-144821.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:06:03.871Z"
+      }
+    },
+    "20260626-144833.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_beach_clear": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:06:13.419Z"
+      }
+    },
+    "20260626-144845.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "lut_店主推荐_709复古褪色低饱和柔对比_dd6a19f2fd": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:06:58.392Z"
+      }
+    },
+    "20260626-144851.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_forest_fresh": 4
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:07:04.981Z"
+      }
+    },
+    "20260626-144855.jpeg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:07:09.063Z"
+      }
+    },
+    "sports_new.jpg": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "filters": {
+          "ai_pet_soft": 3
+        },
+        "allBad": false,
+        "note": "",
+        "updatedAt": "2026-06-26T10:07:15.780Z"
+      }
+    }
+  },
+  "updatedAt": "2026-06-26T10:21:14.650Z"
+}

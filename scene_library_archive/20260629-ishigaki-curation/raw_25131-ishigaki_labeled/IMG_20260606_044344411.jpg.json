@@ -1,0 +1,86 @@
+{
+  "labels": [
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.88867795
+    },
+    {
+      "index": 423,
+      "label": "Car",
+      "confidence": 0.7628953
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.7626918
+    },
+    {
+      "index": 287,
+      "label": "Road",
+      "confidence": 0.76062536
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.61702853
+    },
+    {
+      "index": 172,
+      "label": "Bumper",
+      "confidence": 0.58478415
+    },
+    {
+      "index": 322,
+      "label": "Wheel",
+      "confidence": 0.5603176
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.88867795
+    },
+    {
+      "index": 423,
+      "label": "Car",
+      "confidence": 0.7628953
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.7626918
+    },
+    {
+      "index": 287,
+      "label": "Road",
+      "confidence": 0.76062536
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.61702853
+    },
+    {
+      "index": 172,
+      "label": "Bumper",
+      "confidence": 0.58478415
+    },
+    {
+      "index": 322,
+      "label": "Wheel",
+      "confidence": 0.5603176
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:41:11.203Z",
+    "sourceImage": "25131-ishigaki/IMG_20260606_044344411.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

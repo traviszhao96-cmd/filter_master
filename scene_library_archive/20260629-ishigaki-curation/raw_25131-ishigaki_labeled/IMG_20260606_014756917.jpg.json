@@ -1,0 +1,56 @@
+{
+  "labels": [
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.93671995
+    },
+    {
+      "index": 353,
+      "label": "Beach",
+      "confidence": 0.89345497
+    },
+    {
+      "index": 91,
+      "label": "Monochrome",
+      "confidence": 0.68934834
+    },
+    {
+      "index": 333,
+      "label": "Sand",
+      "confidence": 0.6316153
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.93671995
+    },
+    {
+      "index": 353,
+      "label": "Beach",
+      "confidence": 0.89345497
+    },
+    {
+      "index": 91,
+      "label": "Monochrome",
+      "confidence": 0.68934834
+    },
+    {
+      "index": 333,
+      "label": "Sand",
+      "confidence": 0.6316153
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:41:01.511Z",
+    "sourceImage": "25131-ishigaki/IMG_20260606_014756917.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

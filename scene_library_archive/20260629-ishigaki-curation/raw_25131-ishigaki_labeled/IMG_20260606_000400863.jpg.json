@@ -1,0 +1,96 @@
+{
+  "labels": [
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.91904944
+    },
+    {
+      "index": 408,
+      "label": "Prairie",
+      "confidence": 0.8400461
+    },
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.8048781
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.7567919
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.74901146
+    },
+    {
+      "index": 399,
+      "label": "Farm",
+      "confidence": 0.6386841
+    },
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.5967407
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.50224984
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.91904944
+    },
+    {
+      "index": 408,
+      "label": "Prairie",
+      "confidence": 0.8400461
+    },
+    {
+      "index": 359,
+      "label": "Field",
+      "confidence": 0.8048781
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.7567919
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.74901146
+    },
+    {
+      "index": 399,
+      "label": "Farm",
+      "confidence": 0.6386841
+    },
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.5967407
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.50224984
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:40:54.802Z",
+    "sourceImage": "25131-ishigaki/IMG_20260606_000400863.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

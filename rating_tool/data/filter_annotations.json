@@ -1,0 +1,1007 @@
+{
+  "version": 1,
+  "images": {},
+  "filters": {
+    "ai_forest_fresh": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "通用风格",
+          "清新"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "中性色相",
+        "description": "forest fresh 和 beach 风格看起来过于重合",
+        "updatedAt": "2026-07-06T08:36:20.716Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "high_texture"
+        ],
+        "riskTags": [
+          "skin_tone_risk"
+        ],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "中性色相",
+        "description": "肤色饱和度偏高",
+        "updatedAt": "2026-07-06T07:06:35.860Z"
+      },
+      "lark:ou_b04086897ca8fd793d463a093afef8e2": {
+        "user": {
+          "id": "lark:ou_b04086897ca8fd793d463a093afef8e2",
+          "name": "Mandy Li",
+          "email": "mandy.li@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "中性色相",
+        "colorTemp": "",
+        "description": "",
+        "updatedAt": "2026-07-07T02:59:50.681Z"
+      }
+    },
+    "ai_beach_clear": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [
+          "highlight_clip"
+        ],
+        "style": [
+          "自然轻微"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "中性色相",
+        "description": "相比刚才的 forest 饱和度更加高，有更大的曝光高光过曝风险",
+        "updatedAt": "2026-07-06T03:07:54.944Z"
+      },
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [
+          "shadow_crush"
+        ],
+        "style": [
+          "自然轻微"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "中性色相",
+        "description": "",
+        "updatedAt": "2026-07-06T07:07:03.012Z"
+      }
+    },
+    "ai_portrait_soft": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "clean"
+        ],
+        "riskTags": [],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "自然对比",
+        "hue": "中性",
+        "description": "效果不显性，但是适用程度比较高，主要是优化场景中的肤色表现",
+        "updatedAt": "2026-07-06T03:49:17.996Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "soft",
+          "clean"
+        ],
+        "riskTags": [],
+        "style": [
+          "通用风格",
+          "自然轻微",
+          "柔和"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "中性",
+        "description": "",
+        "updatedAt": "2026-07-06T08:51:24.522Z"
+      }
+    },
+    "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [
+          "highlight_clip"
+        ],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "略高对比",
+        "hue": "暖黄/偏绿",
+        "description": "",
+        "updatedAt": "2026-07-06T04:01:28.367Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "retro",
+          "cinematic"
+        ],
+        "riskTags": [],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "略高对比",
+        "hue": "暖橙/金色",
+        "description": "",
+        "updatedAt": "2026-07-06T09:09:50.876Z"
+      }
+    },
+    "lut_店主推荐_709复古年代3_0e52ad64ac": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "cinematic"
+        ],
+        "riskTags": [
+          "green_shift"
+        ],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "冷青/青绿",
+        "description": "",
+        "updatedAt": "2026-07-06T04:05:39.436Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [],
+        "style": [
+          "通用风格",
+          "复古",
+          "电影感"
+        ],
+        "saturation": "低饱和",
+        "contrast": "",
+        "hue": "中性色相",
+        "description": "",
+        "updatedAt": "2026-07-06T09:09:20.175Z"
+      }
+    },
+    "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "中性",
+        "description": "",
+        "updatedAt": "2026-07-06T04:06:01.991Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "natural"
+        ],
+        "riskTags": [],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "冷蓝/青色",
+        "description": "",
+        "updatedAt": "2026-07-06T09:08:50.542Z"
+      }
+    },
+    "ai_food_warm": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [
+          "skin_tone_risk"
+        ],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "高饱和",
+        "contrast": "略高对比",
+        "hue": "中性色相",
+        "description": "",
+        "updatedAt": "2026-07-06T04:10:43.561Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [
+          "highlight_clip"
+        ],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "高饱和",
+        "contrast": "高对比",
+        "hue": "中性色相",
+        "description": "高光很容易过曝光，只推荐在室内的食物场景推荐",
+        "updatedAt": "2026-07-06T08:52:48.462Z"
+      }
+    },
+    "ai_sunset_gold": {
+      "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be": {
+        "user": {
+          "id": "lark:ou_3e7a8cc51e7c8b2ed023abf30d6376be",
+          "name": "Riley Tang",
+          "email": "riley.tang@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "soft"
+        ],
+        "riskTags": [],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "自然对比",
+        "hue": "偏暖",
+        "description": "",
+        "updatedAt": "2026-07-06T04:11:01.576Z"
+      },
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "soft"
+        ],
+        "riskTags": [
+          "too_stylized"
+        ],
+        "style": [
+          "胶片",
+          "复古"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "自然对比",
+        "hue": "暖橙/金色",
+        "description": "",
+        "updatedAt": "2026-07-06T08:53:39.211Z"
+      }
+    },
+    "lut_filter-lut_noir_15bb803b4b": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film",
+          "black_white"
+        ],
+        "riskTags": [
+          "shadow_crush",
+          "too_stylized"
+        ],
+        "style": [
+          "黑白/单色"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "高对比",
+        "hue": "中性色相",
+        "description": "",
+        "updatedAt": "2026-07-06T08:51:47.940Z"
+      }
+    },
+    "ai_night_neon": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "fresh"
+        ],
+        "riskTags": [
+          "too_stylized"
+        ],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "略高对比",
+        "hue": "冷蓝/青色",
+        "description": "颜色很奇怪，饱和度很低，考虑拿掉",
+        "updatedAt": "2026-07-06T08:54:46.294Z"
+      }
+    },
+    "ai_pet_soft": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "自然对比",
+        "hue": "中性色相",
+        "description": "高光容易炸",
+        "updatedAt": "2026-07-06T08:56:09.331Z"
+      }
+    },
+    "lut_filter-lut_fuji-cc-v1-1-33-3_9301bc7f72": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [
+          "too_stylized"
+        ],
+        "style": [
+          "胶片哑光"
+        ],
+        "saturation": "低饱和",
+        "contrast": "低对比",
+        "hue": "中性",
+        "description": "",
+        "updatedAt": "2026-07-06T08:56:39.555Z"
+      }
+    },
+    "lut_filter-lut_cold_b4ced4ef7d": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [
+          "too_stylized"
+        ],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "略增饱和",
+        "contrast": "略高对比",
+        "hue": "冷青/青绿",
+        "description": "看起来风格化有点过强了",
+        "updatedAt": "2026-07-06T08:57:17.024Z"
+      }
+    },
+    "lut_filter-lut_chrome_e9b2fc5e57": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [],
+        "style": [
+          "胶片哑光"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "略低对比",
+        "hue": "暖黄/偏绿",
+        "description": "",
+        "updatedAt": "2026-07-06T09:00:03.116Z"
+      }
+    },
+    "lut_filter-lut_analog_eebccaae7e": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [
+          "too_stylized"
+        ],
+        "style": [
+          "胶片",
+          "复古"
+        ],
+        "saturation": "低饱和",
+        "contrast": "低对比",
+        "hue": "暖橙/金色",
+        "description": "非常强烈的胶片风格效果，如果说画面中有很强的对比，室外的高光环境效果比较好，如果是室内的低对比环境很容易色彩失真",
+        "updatedAt": "2026-07-06T09:01:29.927Z"
+      }
+    },
+    "lut_filter-lut_自然11_1918e5af72": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "自然对比",
+        "hue": "中性色相",
+        "description": "略微提高亮度，提高饱和，没什么特色",
+        "updatedAt": "2026-07-06T09:02:03.502Z"
+      }
+    },
+    "lut_filter-lut_质感11_d4e9593069": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略高对比",
+        "hue": "中性色相",
+        "description": "略微提高饱和，提高对比，没什么特色",
+        "updatedAt": "2026-07-06T09:02:41.116Z"
+      }
+    },
+    "lut_filter-lut_菲林黑白11_80c0cbfe36": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [],
+        "style": [
+          "黑白/单色"
+        ],
+        "saturation": "低饱和",
+        "contrast": "略高对比",
+        "hue": "中性色相",
+        "description": "",
+        "updatedAt": "2026-07-06T09:02:56.168Z"
+      }
+    },
+    "lut_filter-lut_33portra400-2_b55d2bac4d": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [
+          "shadow_crush",
+          "too_stylized"
+        ],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "低对比",
+        "hue": "中性色相",
+        "description": "看起来暗部容易死黑，对比度又偏低",
+        "updatedAt": "2026-07-06T09:03:29.724Z"
+      }
+    },
+    "lut_店主推荐_709通用轻创意3_2ea096f06c": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "低饱和",
+        "contrast": "自然对比",
+        "hue": "中性色相",
+        "description": "",
+        "updatedAt": "2026-07-06T09:03:58.868Z"
+      }
+    },
+    "lut_店主推荐_709通用轻创意_826b1b48a6": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "retro",
+          "cinematic",
+          "high_texture"
+        ],
+        "riskTags": [
+          "too_stylized"
+        ],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "自然对比",
+        "hue": "暖黄/偏绿",
+        "description": "",
+        "updatedAt": "2026-07-06T09:04:23.672Z"
+      }
+    },
+    "lut_店主推荐_709商业鲜明高对比_c136a01eeb": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "略低对比",
+        "hue": "暖黄/偏绿",
+        "description": "",
+        "updatedAt": "2026-07-06T09:04:44.627Z"
+      }
+    },
+    "lut_店主推荐_709柔和的中性色调01_3291423b30": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [],
+        "style": [
+          "色相风格化",
+          "自然"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "自然对比",
+        "hue": "暖橙/金色",
+        "description": "",
+        "updatedAt": "2026-07-06T09:05:04.234Z"
+      }
+    },
+    "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "色相风格化",
+          "胶片哑光"
+        ],
+        "saturation": "低饱和",
+        "contrast": "略低对比",
+        "hue": "偏洋红",
+        "description": "效果还不错，准确的来说这几个店主推荐的适用型都比现在的几个其他的要适配性更广一些",
+        "updatedAt": "2026-07-06T09:05:48.412Z"
+      }
+    },
+    "lut_店主推荐_709日系清新-低对比低饱和_439073cacf": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "胶片哑光"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "低对比",
+        "hue": "中性色相",
+        "description": "有很严重的影调反转风险，不适合对比度略高的场景使用",
+        "updatedAt": "2026-07-06T09:06:53.737Z"
+      }
+    },
+    "lut_店主推荐_709日系奶油低饱和_e882a24171": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [],
+        "riskTags": [],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "自然饱和",
+        "contrast": "略低对比",
+        "hue": "冷蓝/青色",
+        "description": "",
+        "updatedAt": "2026-07-06T09:07:19.548Z"
+      }
+    },
+    "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [],
+        "style": [
+          "通用风格"
+        ],
+        "saturation": "略降饱和",
+        "contrast": "略高对比",
+        "hue": "冷青/青绿",
+        "description": "",
+        "updatedAt": "2026-07-06T09:08:16.426Z"
+      }
+    },
+    "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31": {
+      "lark:ou_1e068f80b2831f5bc95787032143a546": {
+        "user": {
+          "id": "lark:ou_1e068f80b2831f5bc95787032143a546",
+          "name": "Travis Zhao",
+          "email": "travis.zhao@nothing.tech",
+          "authProvider": "lark"
+        },
+        "sceneBaseTags": [],
+        "subjectTags": [],
+        "lightingTags": [],
+        "colorTags": [],
+        "qualityTags": [],
+        "filterStyleTags": [
+          "film"
+        ],
+        "riskTags": [
+          "too_stylized"
+        ],
+        "style": [
+          "色相风格化"
+        ],
+        "saturation": "低饱和",
+        "contrast": "低对比",
+        "hue": "暖黄/偏绿",
+        "description": "",
+        "updatedAt": "2026-07-06T09:09:41.116Z"
+      }
+    }
+  },
+  "updatedAt": "2026-07-07T02:59:50.681Z"
+}

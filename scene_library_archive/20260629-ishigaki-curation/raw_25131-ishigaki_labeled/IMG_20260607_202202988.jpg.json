@@ -1,0 +1,106 @@
+{
+  "labels": [
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.82680506
+    },
+    {
+      "index": 45,
+      "label": "Boat",
+      "confidence": 0.80275685
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.76328444
+    },
+    {
+      "index": 167,
+      "label": "Vacation",
+      "confidence": 0.73497045
+    },
+    {
+      "index": 284,
+      "label": "River",
+      "confidence": 0.72315335
+    },
+    {
+      "index": 18,
+      "label": "Bridge",
+      "confidence": 0.6697419
+    },
+    {
+      "index": 241,
+      "label": "Lake",
+      "confidence": 0.6262078
+    },
+    {
+      "index": 319,
+      "label": "Event",
+      "confidence": 0.5844243
+    },
+    {
+      "index": 239,
+      "label": "Leisure",
+      "confidence": 0.5456705
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.82680506
+    },
+    {
+      "index": 45,
+      "label": "Boat",
+      "confidence": 0.80275685
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.76328444
+    },
+    {
+      "index": 167,
+      "label": "Vacation",
+      "confidence": 0.73497045
+    },
+    {
+      "index": 284,
+      "label": "River",
+      "confidence": 0.72315335
+    },
+    {
+      "index": 18,
+      "label": "Bridge",
+      "confidence": 0.6697419
+    },
+    {
+      "index": 241,
+      "label": "Lake",
+      "confidence": 0.6262078
+    },
+    {
+      "index": 319,
+      "label": "Event",
+      "confidence": 0.5844243
+    },
+    {
+      "index": 239,
+      "label": "Leisure",
+      "confidence": 0.5456705
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:42:00.594Z",
+    "sourceImage": "25131-ishigaki/IMG_20260607_202202988.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

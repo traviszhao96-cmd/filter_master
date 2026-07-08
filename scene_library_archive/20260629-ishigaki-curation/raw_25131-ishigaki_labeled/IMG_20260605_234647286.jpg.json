@@ -1,0 +1,96 @@
+{
+  "labels": [
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.8405078
+    },
+    {
+      "index": 287,
+      "label": "Road",
+      "confidence": 0.79828817
+    },
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.6878617
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.6832237
+    },
+    {
+      "index": 357,
+      "label": "Garden",
+      "confidence": 0.66855145
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.65792036
+    },
+    {
+      "index": 411,
+      "label": "Asphalt",
+      "confidence": 0.5458038
+    },
+    {
+      "index": 187,
+      "label": "Fruit",
+      "confidence": 0.51676697
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.8405078
+    },
+    {
+      "index": 287,
+      "label": "Road",
+      "confidence": 0.79828817
+    },
+    {
+      "index": 193,
+      "label": "Forest",
+      "confidence": 0.6878617
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.6832237
+    },
+    {
+      "index": 357,
+      "label": "Garden",
+      "confidence": 0.66855145
+    },
+    {
+      "index": 114,
+      "label": "Jungle",
+      "confidence": 0.65792036
+    },
+    {
+      "index": 411,
+      "label": "Asphalt",
+      "confidence": 0.5458038
+    },
+    {
+      "index": 187,
+      "label": "Fruit",
+      "confidence": 0.51676697
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:40:44.368Z",
+    "sourceImage": "25131-ishigaki/IMG_20260605_234647286.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}

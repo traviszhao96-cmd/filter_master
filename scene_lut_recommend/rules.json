@@ -1,0 +1,1318 @@
+{
+  "schemaVersion": 1,
+  "labelThreshold": 0.55,
+  "detectIntervalMs": 2500,
+  "maxRecommendations": 5,
+  "filters": [
+    {
+      "id": "ai_portrait_soft",
+      "effectName": "9101",
+      "displayName": "AI Portrait Soft",
+      "lutFile": "luts/ai_portrait_soft.png",
+      "defaultStrength": 100,
+      "iqaStatus": "approved"
+    },
+    {
+      "id": "ai_food_warm",
+      "effectName": "9102",
+      "displayName": "AI Food Warm",
+      "lutFile": "luts/ai_food_warm.png",
+      "defaultStrength": 100,
+      "iqaStatus": "approved"
+    },
+    {
+      "id": "ai_sunset_gold",
+      "effectName": "9103",
+      "displayName": "AI Sunset Gold",
+      "lutFile": "luts/ai_sunset_gold.png",
+      "defaultStrength": 100,
+      "iqaStatus": "approved"
+    },
+    {
+      "id": "ai_night_neon",
+      "effectName": "9105",
+      "displayName": "AI Night Neon",
+      "lutFile": "luts/ai_night_neon.png",
+      "defaultStrength": 100,
+      "iqaStatus": "approved"
+    },
+    {
+      "id": "ai_forest_fresh",
+      "effectName": "9106",
+      "displayName": "AI Forest Fresh",
+      "lutFile": "luts/ai_forest_fresh.png",
+      "defaultStrength": 100,
+      "iqaStatus": "approved"
+    },
+    {
+      "id": "ai_beach_clear",
+      "effectName": "9107",
+      "displayName": "AI Beach Clear",
+      "lutFile": "luts/ai_beach_clear.png",
+      "defaultStrength": 100,
+      "iqaStatus": "approved"
+    },
+    {
+      "id": "ai_pet_soft",
+      "effectName": "9111",
+      "displayName": "AI Pet Soft",
+      "lutFile": "luts/ai_pet_soft.png",
+      "defaultStrength": 100,
+      "iqaStatus": "approved"
+    }
+  ],
+  "scenes": [
+    {
+      "sceneId": "portrait_single",
+      "displayName": "Portrait",
+      "priority": 100,
+      "labels": [
+        {
+          "index": 66,
+          "minConfidence": 0.55,
+          "weight": 120
+        },
+        {
+          "index": 439,
+          "minConfidence": 0.55,
+          "weight": 110
+        },
+        {
+          "index": 421,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 46,
+          "minConfidence": 0.55,
+          "weight": 95
+        },
+        {
+          "index": 373,
+          "minConfidence": 0.5,
+          "weight": 85
+        },
+        {
+          "index": 218,
+          "minConfidence": 0.75,
+          "weight": 85
+        },
+        {
+          "index": 185,
+          "minConfidence": 0.7,
+          "weight": 80
+        },
+        {
+          "index": 230,
+          "minConfidence": 0.75,
+          "weight": 70
+        },
+        {
+          "index": 197,
+          "minConfidence": 0.7,
+          "weight": 60
+        }
+      ],
+      "labelGroups": [
+        {
+          "reason": "portrait_clothing_pose_cluster",
+          "minMatches": 2,
+          "minScore": 60,
+          "weight": 70,
+          "labels": [
+            {
+              "index": 16,
+              "label": "Sitting",
+              "minConfidence": 0.55,
+              "weight": 60
+            },
+            {
+              "index": 390,
+              "label": "Jeans",
+              "minConfidence": 0.5,
+              "weight": 55
+            },
+            {
+              "index": 197,
+              "label": "Jacket",
+              "minConfidence": 0.5,
+              "weight": 55
+            },
+            {
+              "index": 317,
+              "label": "Handbag",
+              "minConfidence": 0.55,
+              "weight": 45
+            },
+            {
+              "index": 434,
+              "label": "Bag",
+              "minConfidence": 0.55,
+              "weight": 40
+            }
+          ]
+        },
+        {
+          "reason": "portrait_leisure_people_cluster",
+          "minMatches": 2,
+          "minScore": 70,
+          "weight": 55,
+          "labels": [
+            {
+              "index": 386,
+              "label": "Fun",
+              "minConfidence": 0.65,
+              "weight": 45
+            },
+            {
+              "index": 239,
+              "label": "Leisure",
+              "minConfidence": 0.55,
+              "weight": 40
+            },
+            {
+              "index": 390,
+              "label": "Jeans",
+              "minConfidence": 0.55,
+              "weight": 45
+            },
+            {
+              "index": 197,
+              "label": "Jacket",
+              "minConfidence": 0.55,
+              "weight": 45
+            }
+          ]
+        }
+      ],
+      "recommendations": [
+        "ai_portrait_soft",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_filter-lut_自然11_1918e5af72",
+        "lut_filter-lut_质感11_d4e9593069"
+      ]
+    },
+    {
+      "sceneId": "food_closeup",
+      "displayName": "Food",
+      "priority": 96,
+      "labels": [
+        {
+          "index": 184,
+          "minConfidence": 0.55,
+          "weight": 120
+        },
+        {
+          "index": 300,
+          "minConfidence": 0.5,
+          "weight": 100
+        },
+        {
+          "index": 276,
+          "minConfidence": 0.5,
+          "weight": 100
+        },
+        {
+          "index": 48,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 117,
+          "minConfidence": 0.55,
+          "weight": 105
+        },
+        {
+          "index": 236,
+          "minConfidence": 0.5,
+          "weight": 75
+        },
+        {
+          "index": 428,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 388,
+          "minConfidence": 0.55,
+          "weight": 80
+        },
+        {
+          "index": 187,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 393,
+          "minConfidence": 0.5,
+          "weight": 75
+        },
+        {
+          "index": 162,
+          "minConfidence": 0.5,
+          "weight": 75
+        },
+        {
+          "index": 90,
+          "minConfidence": 0.5,
+          "weight": 75
+        },
+        {
+          "index": 119,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 126,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 134,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 259,
+          "minConfidence": 0.5,
+          "weight": 65
+        },
+        {
+          "index": 332,
+          "minConfidence": 0.5,
+          "weight": 75
+        },
+        {
+          "index": 415,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 419,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 433,
+          "minConfidence": 0.5,
+          "weight": 75
+        }
+      ],
+      "recommendations": [
+        "ai_food_warm",
+        "ai_portrait_soft",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "ai_sunset_gold",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c"
+      ]
+    },
+    {
+      "sceneId": "sunset_sunrise",
+      "displayName": "Sunset",
+      "priority": 94,
+      "labels": [
+        {
+          "index": 49,
+          "minConfidence": 0.55,
+          "weight": 130
+        }
+      ],
+      "recommendations": [
+        "ai_sunset_gold",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_店主推荐_709日系清新-低对比低饱和_439073cacf",
+        "ai_beach_clear",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c"
+      ]
+    },
+    {
+      "sceneId": "night_neon",
+      "displayName": "Night",
+      "priority": 90,
+      "labels": [
+        {
+          "index": 104,
+          "minConfidence": 0.5,
+          "weight": 110
+        },
+        {
+          "index": 140,
+          "minConfidence": 0.5,
+          "weight": 110
+        },
+        {
+          "index": 398,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 260,
+          "minConfidence": 0.5,
+          "weight": 105
+        },
+        {
+          "index": 75,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 319,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 76,
+          "minConfidence": 0.45,
+          "weight": 80
+        },
+        {
+          "index": 86,
+          "minConfidence": 0.45,
+          "weight": 80
+        },
+        {
+          "index": 170,
+          "minConfidence": 0.45,
+          "weight": 80
+        },
+        {
+          "index": 237,
+          "minConfidence": 0.45,
+          "weight": 80
+        },
+        {
+          "index": 189,
+          "minConfidence": 0.45,
+          "weight": 70
+        },
+        {
+          "index": 347,
+          "minConfidence": 0.45,
+          "weight": 75
+        },
+        {
+          "index": 430,
+          "minConfidence": 0.45,
+          "weight": 65
+        }
+      ],
+      "recommendations": [
+        "ai_night_neon",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "ai_forest_fresh",
+        "lut_店主推荐_709日系清新-低对比低饱和_439073cacf",
+        "lut_店主推荐_709柔和的中性色调01_3291423b30"
+      ]
+    },
+    {
+      "sceneId": "forest_greenery",
+      "displayName": "Greenery",
+      "priority": 88,
+      "labels": [
+        {
+          "index": 193,
+          "minConfidence": 0.5,
+          "weight": 120
+        },
+        {
+          "index": 266,
+          "minConfidence": 0.5,
+          "weight": 100
+        },
+        {
+          "index": 357,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 205,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 22,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 355,
+          "minConfidence": 0.55,
+          "weight": 80
+        },
+        {
+          "index": 359,
+          "minConfidence": 0.55,
+          "weight": 80
+        },
+        {
+          "index": 408,
+          "minConfidence": 0.55,
+          "weight": 75
+        },
+        {
+          "index": 114,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 180,
+          "minConfidence": 0.5,
+          "weight": 65
+        }
+      ],
+      "recommendations": [
+        "lut_filter-lut_自然11_1918e5af72",
+        "ai_forest_fresh",
+        "lut_filter-lut_负片11_85214ab869",
+        "lut_filter-lut_质感11_d4e9593069",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171"
+      ]
+    },
+    {
+      "sceneId": "beach_sea",
+      "displayName": "Beach",
+      "priority": 86,
+      "labels": [
+        {
+          "index": 353,
+          "minConfidence": 0.5,
+          "weight": 120
+        },
+        {
+          "index": 333,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 281,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 167,
+          "minConfidence": 0.55,
+          "weight": 80
+        },
+        {
+          "index": 96,
+          "minConfidence": 0.5,
+          "weight": 70
+        }
+      ],
+      "recommendations": [
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "lut_filter-lut_正片11_408567dd45",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "lut_filter-lut_菲林黑白11_80c0cbfe36",
+        "lut_filter-lut_质感11_d4e9593069"
+      ]
+    },
+    {
+      "sceneId": "street_vehicle",
+      "displayName": "Street",
+      "priority": 84,
+      "labels": [
+        {
+          "index": 287,
+          "minConfidence": 0.5,
+          "weight": 110
+        },
+        {
+          "index": 316,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 423,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 411,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 52,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 42,
+          "minConfidence": 0.5,
+          "weight": 75
+        }
+      ],
+      "recommendations": [
+        "lut_filter-lut_菲林黑白11_80c0cbfe36",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "lut_店主推荐_709柔和的中性色调01_3291423b30",
+        "lut_店主推荐_709复古年代3_0e52ad64ac"
+      ]
+    },
+    {
+      "sceneId": "architecture",
+      "displayName": "Architecture",
+      "priority": 82,
+      "labels": [
+        {
+          "index": 366,
+          "minConfidence": 0.5,
+          "weight": 110
+        },
+        {
+          "index": 365,
+          "minConfidence": 0.45,
+          "weight": 100
+        },
+        {
+          "index": 18,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 290,
+          "minConfidence": 0.5,
+          "weight": 95
+        },
+        {
+          "index": 308,
+          "minConfidence": 0.5,
+          "weight": 95
+        },
+        {
+          "index": 123,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 63,
+          "minConfidence": 0.5,
+          "weight": 85
+        },
+        {
+          "index": 31,
+          "minConfidence": 0.55,
+          "weight": 85
+        },
+        {
+          "index": 64,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 88,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 110,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 371,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 171,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 235,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 270,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 335,
+          "minConfidence": 0.45,
+          "weight": 85
+        },
+        {
+          "index": 377,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 350,
+          "minConfidence": 0.55,
+          "weight": 60
+        },
+        {
+          "index": 77,
+          "minConfidence": 0.5,
+          "weight": 70
+        }
+      ],
+      "recommendations": [
+        "ai_sunset_gold",
+        "lut_filter-lut_质感11_d4e9593069",
+        "ai_forest_fresh",
+        "lut_filter-lut_chrome_e9b2fc5e57",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948"
+      ]
+    },
+    {
+      "sceneId": "sky_cloud",
+      "displayName": "Sky",
+      "priority": 80,
+      "labels": [
+        {
+          "index": 54,
+          "minConfidence": 0.55,
+          "weight": 120
+        },
+        {
+          "index": 354,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 378,
+          "minConfidence": 0.45,
+          "weight": 90
+        }
+      ],
+      "recommendations": [
+        "ai_beach_clear",
+        "ai_forest_fresh",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "lut_filter-lut_自然11_1918e5af72",
+        "lut_filter-lut_质感11_d4e9593069"
+      ]
+    },
+    {
+      "sceneId": "pet",
+      "displayName": "Pet",
+      "priority": 78,
+      "labels": [
+        {
+          "index": 277,
+          "minConfidence": 0.5,
+          "weight": 110
+        },
+        {
+          "index": 118,
+          "minConfidence": 0.5,
+          "weight": 100
+        },
+        {
+          "index": 360,
+          "minConfidence": 0.5,
+          "weight": 100
+        }
+      ],
+      "recommendations": [
+        "ai_pet_soft",
+        "ai_portrait_soft",
+        "lut_店主推荐_709复古年代3_0e52ad64ac",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_filter-lut_正片11_408567dd45"
+      ]
+    },
+    {
+      "sceneId": "flower_macro",
+      "displayName": "Flower",
+      "priority": 76,
+      "labels": [
+        {
+          "index": 362,
+          "minConfidence": 0.5,
+          "weight": 120
+        },
+        {
+          "index": 28,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 391,
+          "minConfidence": 0.45,
+          "weight": 90
+        }
+      ],
+      "recommendations": [
+        "lut_filter-lut_负片11_85214ab869",
+        "ai_forest_fresh",
+        "lut_filter-lut_质感11_d4e9593069",
+        "ai_sunset_gold",
+        "ai_portrait_soft"
+      ]
+    },
+    {
+      "sceneId": "auto_show",
+      "displayName": "Auto",
+      "priority": 74,
+      "labels": [
+        {
+          "index": 423,
+          "minConfidence": 0.5,
+          "weight": 120
+        },
+        {
+          "index": 316,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 233,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 322,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 404,
+          "minConfidence": 0.5,
+          "weight": 85
+        },
+        {
+          "index": 172,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 87,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 406,
+          "minConfidence": 0.5,
+          "weight": 75
+        },
+        {
+          "index": 420,
+          "minConfidence": 0.5,
+          "weight": 70
+        }
+      ],
+      "recommendations": [
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "lut_filter-lut_质感11_d4e9593069",
+        "ai_forest_fresh"
+      ]
+    },
+    {
+      "sceneId": "mountain",
+      "displayName": "Mountain",
+      "priority": 72,
+      "labels": [
+        {
+          "index": 337,
+          "minConfidence": 0.5,
+          "weight": 120
+        },
+        {
+          "index": 39,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 427,
+          "minConfidence": 0.45,
+          "weight": 90
+        }
+      ],
+      "recommendations": [
+        "ai_forest_fresh",
+        "ai_night_neon",
+        "lut_filter-lut_负片11_85214ab869",
+        "lut_filter-lut_质感11_d4e9593069",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9"
+      ]
+    },
+    {
+      "sceneId": "lake_river",
+      "displayName": "Lake",
+      "priority": 70,
+      "labels": [
+        {
+          "index": 241,
+          "minConfidence": 0.5,
+          "weight": 120
+        },
+        {
+          "index": 284,
+          "minConfidence": 0.5,
+          "weight": 100
+        },
+        {
+          "index": 45,
+          "minConfidence": 0.45,
+          "weight": 80
+        },
+        {
+          "index": 328,
+          "minConfidence": 0.45,
+          "weight": 80
+        }
+      ],
+      "recommendations": [
+        "ai_beach_clear",
+        "ai_pet_soft",
+        "ai_portrait_soft",
+        "lut_filter-lut_chrome_e9b2fc5e57",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171"
+      ]
+    },
+    {
+      "sceneId": "waterfall",
+      "displayName": "Waterfall",
+      "priority": 68,
+      "labels": [
+        {
+          "index": 417,
+          "minConfidence": 0.5,
+          "weight": 120
+        },
+        {
+          "index": 284,
+          "minConfidence": 0.45,
+          "weight": 90
+        }
+      ],
+      "recommendations": [
+        "ai_beach_clear",
+        "ai_forest_fresh",
+        "lut_filter-lut_自然11_1918e5af72",
+        "lut_filter-lut_质感11_d4e9593069",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171"
+      ]
+    },
+    {
+      "sceneId": "snow",
+      "displayName": "Snow",
+      "priority": 66,
+      "labels": [
+        {
+          "index": 348,
+          "minConfidence": 0.45,
+          "weight": 100
+        },
+        {
+          "index": 304,
+          "minConfidence": 0.45,
+          "weight": 100
+        },
+        {
+          "index": 4,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 202,
+          "minConfidence": 0.45,
+          "weight": 90
+        }
+      ],
+      "recommendations": [
+        "ai_beach_clear",
+        "lut_filter-lut_正片11_408567dd45",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "lut_filter-lut_质感11_d4e9593069",
+        "ai_portrait_soft"
+      ]
+    },
+    {
+      "sceneId": "document",
+      "displayName": "Document",
+      "priority": 62,
+      "labels": [
+        {
+          "index": 273,
+          "minConfidence": 0.5,
+          "weight": 110
+        },
+        {
+          "index": 240,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 263,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 160,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 135,
+          "minConfidence": 0.45,
+          "weight": 80
+        }
+      ],
+      "recommendations": [
+        "lut_filter-lut_正片11_408567dd45",
+        "lut_filter-lut_自然11_1918e5af72",
+        "lut_filter-lut_质感11_d4e9593069",
+        "ai_portrait_soft",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171"
+      ]
+    },
+    {
+      "sceneId": "indoor_home",
+      "displayName": "Indoor",
+      "priority": 60,
+      "labels": [
+        {
+          "index": 289,
+          "minConfidence": 0.5,
+          "weight": 110
+        },
+        {
+          "index": 154,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 157,
+          "minConfidence": 0.45,
+          "weight": 90
+        },
+        {
+          "index": 92,
+          "minConfidence": 0.45,
+          "weight": 80
+        },
+        {
+          "index": 181,
+          "minConfidence": 0.5,
+          "weight": 90
+        },
+        {
+          "index": 331,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 115,
+          "minConfidence": 0.5,
+          "weight": 85
+        },
+        {
+          "index": 101,
+          "minConfidence": 0.5,
+          "weight": 85
+        },
+        {
+          "index": 352,
+          "minConfidence": 0.5,
+          "weight": 75
+        },
+        {
+          "index": 89,
+          "minConfidence": 0.5,
+          "weight": 75
+        },
+        {
+          "index": 7,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 127,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 94,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 72,
+          "minConfidence": 0.5,
+          "weight": 80
+        },
+        {
+          "index": 301,
+          "minConfidence": 0.45,
+          "weight": 80
+        },
+        {
+          "index": 310,
+          "minConfidence": 0.5,
+          "weight": 65
+        },
+        {
+          "index": 318,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 376,
+          "minConfidence": 0.5,
+          "weight": 85
+        },
+        {
+          "index": 392,
+          "minConfidence": 0.5,
+          "weight": 70
+        },
+        {
+          "index": 394,
+          "minConfidence": 0.5,
+          "weight": 65
+        },
+        {
+          "index": 401,
+          "minConfidence": 0.5,
+          "weight": 75
+        }
+      ],
+      "recommendations": [
+        "lut_filter-lut_正片11_408567dd45",
+        "lut_filter-lut_负片11_85214ab869",
+        "ai_portrait_soft",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171"
+      ]
+    }
+  ],
+  "recommendationVersion": "v3-product-tags",
+  "productTagRecommendations": {
+    "byCombo": {
+      "美食/绿植": [
+        "ai_portrait_soft",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "ai_sunset_gold",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_店主推荐_709日系清新-低对比低饱和_439073cacf"
+      ],
+      "宠物动物": [
+        "ai_portrait_soft",
+        "lut_店主推荐_709复古年代3_0e52ad64ac",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_filter-lut_质感11_d4e9593069",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948"
+      ],
+      "旅行风景/绿植/建筑": [
+        "ai_sunset_gold",
+        "lut_filter-lut_暖调11_fcb25bb7ad",
+        "ai_portrait_soft",
+        "lut_店主推荐_709商业鲜明高对比_c136a01eeb",
+        "lut_filter-lut_自然11_1918e5af72"
+      ],
+      "人像/天空/街道": [
+        "lut_店主推荐_709复古年代3_0e52ad64ac",
+        "ai_portrait_soft",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948",
+        "ai_beach_clear",
+        "ai_forest_fresh"
+      ],
+      "旅行风景/街道/建筑": [
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "ai_forest_fresh",
+        "lut_filter-lut_质感11_d4e9593069",
+        "lut_店主推荐_709日系清新柔雾褪色低饱和_9f742ca87b"
+      ],
+      "高楼天际线/天空/绿植": [
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948",
+        "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "lut_filter-lut_chrome_e9b2fc5e57",
+        "lut_filter-lut_菲林黑白11_80c0cbfe36"
+      ],
+      "旅行风景/绿植/街道": [
+        "ai_forest_fresh",
+        "ai_night_neon",
+        "lut_filter-lut_负片11_85214ab869",
+        "lut_filter-lut_质感11_d4e9593069",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9"
+      ],
+      "宠物动物/绿植": [
+        "ai_pet_soft",
+        "ai_portrait_soft",
+        "lut_filter-lut_chrome_e9b2fc5e57",
+        "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9"
+      ],
+      "旅行风景/绿植/街道/建筑": [
+        "ai_sunset_gold",
+        "lut_filter-lut_负片11_85214ab869",
+        "ai_forest_fresh",
+        "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6",
+        "ai_portrait_soft"
+      ],
+      "绿植花草": [
+        "lut_filter-lut_质感11_d4e9593069",
+        "ai_forest_fresh",
+        "lut_filter-lut_负片11_85214ab869"
+      ],
+      "人像": [
+        "ai_portrait_soft",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_filter-lut_自然11_1918e5af72",
+        "lut_filter-lut_analog_eebccaae7e"
+      ],
+      "绿植花草/街道/建筑": [
+        "lut_filter-lut_菲林黑白11_80c0cbfe36",
+        "lut_店主推荐_709柔和的中性色调01_3291423b30",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948",
+        "ai_night_neon",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171"
+      ],
+      "美食/建筑": [
+        "lut_店主推荐_709霓虹赛博高冲击_2bec25a0d6",
+        "ai_food_warm",
+        "lut_店主推荐_709柔和的中性色调01_3291423b30"
+      ],
+      "海边/天空/街道/建筑": [
+        "ai_portrait_soft",
+        "ai_beach_clear"
+      ],
+      "美食/绿植/街道/建筑": [
+        "lut_filter-lut_自然11_1918e5af72",
+        "ai_portrait_soft",
+        "ai_forest_fresh",
+        "lut_filter-lut_正片11_408567dd45"
+      ],
+      "城市建筑": [
+        "lut_filter-lut_正片11_408567dd45",
+        "lut_filter-lut_负片11_85214ab869",
+        "ai_portrait_soft",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948"
+      ],
+      "日落/天空": [
+        "ai_beach_clear",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "lut_filter-lut_正片11_408567dd45"
+      ],
+      "公园田野/天空/绿植/建筑": [
+        "ai_forest_fresh",
+        "ai_beach_clear",
+        "lut_filter-lut_负片11_85214ab869",
+        "lut_filter-lut_自然11_1918e5af72",
+        "ai_pet_soft"
+      ],
+      "高楼天际线/天空/绿植/街道": [
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "ai_sunset_gold",
+        "ai_night_neon",
+        "ai_forest_fresh"
+      ],
+      "美食/天空/绿植": [
+        "lut_filter-lut_菲林黑白11_80c0cbfe36"
+      ]
+    },
+    "byTag": {
+      "美食": [
+        "ai_portrait_soft",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "ai_sunset_gold",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_店主推荐_709日系清新-低对比低饱和_439073cacf"
+      ],
+      "绿植": [
+        "ai_portrait_soft",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "ai_sunset_gold",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_店主推荐_709日系清新-低对比低饱和_439073cacf"
+      ],
+      "宠物动物": [
+        "ai_portrait_soft",
+        "lut_店主推荐_709复古年代3_0e52ad64ac",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_filter-lut_质感11_d4e9593069",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948"
+      ],
+      "旅行风景": [
+        "ai_sunset_gold",
+        "lut_filter-lut_暖调11_fcb25bb7ad",
+        "ai_portrait_soft",
+        "lut_店主推荐_709商业鲜明高对比_c136a01eeb",
+        "lut_filter-lut_自然11_1918e5af72"
+      ],
+      "建筑": [
+        "ai_sunset_gold",
+        "lut_filter-lut_暖调11_fcb25bb7ad",
+        "ai_portrait_soft",
+        "lut_店主推荐_709商业鲜明高对比_c136a01eeb",
+        "lut_filter-lut_自然11_1918e5af72"
+      ],
+      "人像": [
+        "lut_店主推荐_709复古年代3_0e52ad64ac",
+        "ai_portrait_soft",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948",
+        "ai_beach_clear",
+        "ai_forest_fresh"
+      ],
+      "天空": [
+        "lut_店主推荐_709复古年代3_0e52ad64ac",
+        "ai_portrait_soft",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948",
+        "ai_beach_clear",
+        "ai_forest_fresh"
+      ],
+      "街道": [
+        "lut_店主推荐_709复古年代3_0e52ad64ac",
+        "ai_portrait_soft",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948",
+        "ai_beach_clear",
+        "ai_forest_fresh"
+      ],
+      "高楼天际线": [
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948",
+        "lut_店主推荐_709电影感-青橙-增强对比-2_dfa76d4a31",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "lut_filter-lut_chrome_e9b2fc5e57",
+        "lut_filter-lut_菲林黑白11_80c0cbfe36"
+      ],
+      "绿植花草": [
+        "lut_filter-lut_质感11_d4e9593069",
+        "ai_forest_fresh",
+        "lut_filter-lut_负片11_85214ab869",
+        "lut_filter-lut_菲林黑白11_80c0cbfe36",
+        "lut_店主推荐_709柔和的中性色调01_3291423b30"
+      ],
+      "海边": [
+        "ai_portrait_soft",
+        "ai_beach_clear"
+      ],
+      "城市建筑": [
+        "lut_filter-lut_正片11_408567dd45",
+        "lut_filter-lut_负片11_85214ab869",
+        "ai_portrait_soft",
+        "lut_店主推荐_709电影感-青橙-增强对比_0baaa86948"
+      ],
+      "日落": [
+        "ai_beach_clear",
+        "lut_店主推荐_709日系奶油低饱和_e882a24171",
+        "lut_店主推荐_709婚礼自然暖肤_f4a4e257f9",
+        "lut_店主推荐_709通用轻创意3_2ea096f06c",
+        "lut_filter-lut_正片11_408567dd45"
+      ],
+      "公园田野": [
+        "ai_forest_fresh",
+        "ai_beach_clear",
+        "lut_filter-lut_负片11_85214ab869",
+        "lut_filter-lut_自然11_1918e5af72",
+        "ai_pet_soft"
+      ]
+    }
+  }
+}

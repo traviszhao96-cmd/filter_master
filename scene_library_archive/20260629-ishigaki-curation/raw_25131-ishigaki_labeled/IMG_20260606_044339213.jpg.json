@@ -1,0 +1,96 @@
+{
+  "labels": [
+    {
+      "index": 31,
+      "label": "Infrastructure",
+      "confidence": 0.93227166
+    },
+    {
+      "index": 287,
+      "label": "Road",
+      "confidence": 0.8757069
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.8352104
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.7664101
+    },
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.7555437
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.7306256
+    },
+    {
+      "index": 308,
+      "label": "Skyscraper",
+      "confidence": 0.7003979
+    },
+    {
+      "index": 123,
+      "label": "Skyline",
+      "confidence": 0.6852762
+    }
+  ],
+  "mlkitLabels": [
+    {
+      "index": 31,
+      "label": "Infrastructure",
+      "confidence": 0.93227166
+    },
+    {
+      "index": 287,
+      "label": "Road",
+      "confidence": 0.8757069
+    },
+    {
+      "index": 54,
+      "label": "Sky",
+      "confidence": 0.8352104
+    },
+    {
+      "index": 266,
+      "label": "Plant",
+      "confidence": 0.7664101
+    },
+    {
+      "index": 316,
+      "label": "Vehicle",
+      "confidence": 0.7555437
+    },
+    {
+      "index": 366,
+      "label": "Building",
+      "confidence": 0.7306256
+    },
+    {
+      "index": 308,
+      "label": "Skyscraper",
+      "confidence": 0.7003979
+    },
+    {
+      "index": 123,
+      "label": "Skyline",
+      "confidence": 0.6852762
+    }
+  ],
+  "tags": [
+    "phone_sample",
+    "ishigaki"
+  ],
+  "mlkit": {
+    "provider": "ML Kit",
+    "generatedAt": "2026-06-29T06:41:10.034Z",
+    "sourceImage": "25131-ishigaki/IMG_20260606_044339213.jpg",
+    "command": "node rating_tool/scripts/mlkit-labeler-adb.mjs"
+  }
+}
